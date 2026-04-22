@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.youtube.com)",
+      "WebFetch(domain:www.theguardian.com)",
+      "WebFetch(domain:warp.da.ndl.go.jp)",
+      "WebFetch(domain:journals.sagepub.com)",
+      "WebFetch(domain:world.time.com)",
+      "WebFetch(domain:www.wsj.com)",
+      "WebFetch(domain:www.washingtonpost.com)",
+      "WebFetch(domain:www.asme.org)",
+      "WebFetch(domain:www.theengineer.co.uk)",
+      "WebFetch(domain:www.sciencedirect.com)",
+      "WebFetch(domain:www.iaea.org)",
+      "WebFetch(domain:warp.ndl.go.jp)"
+    ]
+  }
+}
