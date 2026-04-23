@@ -143,6 +143,8 @@ The Commission made **7 recommendations**:
 
 ## Statistics from Survey of Evacuees (10,633 respondents)
 
+### Evacuation Chaos
+
 | Finding | Statistic |
 |---------|-----------|
 | Knew about accident before evacuation order | Only 20% in host town |
@@ -151,6 +153,53 @@ The Commission made **7 recommendations**:
 | Evacuated 4+ times in one year | ~70% of nearest residents |
 | Evacuated to high radiation areas | ~50% of Namie residents |
 | Had no information about radiation levels | Majority until IAEA team arrived |
+
+### Why Did People Evacuate Multiple Times?
+
+The chaos was caused by **constantly changing zones, incomplete information, and bureaucratic failures**:
+
+1. **Zone kept expanding** — 3km → 10km → 20km → "deliberate evacuation area"
+2. **Hotspots discovered later** — areas thought safe later found to have high radiation (e.g., Iitate, Kawamata)
+3. **No SPEEDI data released** — residents had no way to know which direction radiation was spreading
+4. **Slower information transmission** — municipalities 10km+ away learned about accident 12+ hours after notification
+5. **Mixed messages** — "no immediate health effects" said repeatedly, but evacuation orders kept expanding
+
+### Evacuation Timeline for Residents
+
+| When | What happened |
+|------|---------------|
+| March 11, 21:23 | 3km zone ordered — only 20% in Futaba knew about accident |
+| March 12, 5:44 | Most residents within 10km finally learn about accident |
+| March 12-15 | Zone expands to 10km, then 20km |
+| March 15, 11:00 | Shelter-in-place ordered for 20-30km zone |
+| March 25 | Voluntary evacuation called for 30km area |
+| April 22 | "Deliberate evacuation area" designated northwest of plant |
+| Ongoing | Residents moved multiple times based on radiation readings |
+
+### Survivor Accounts of Evacuation Hell
+
+> *"We moved six places inside and outside of the prefecture."* — Namie resident
+
+> *"It took 6 hours by car instead of 1 hour. On my way there, my son who lives away called and told me that I should not expect to return soon."* — Futaba resident
+
+> *"We didn't know there was a hydrogen explosion at the plant, so we couldn't guess why we had to evacuate."* — Minamisoma resident
+
+> *"I could not bring my parents' medical records. My parents' conditions worsened during evacuation. It is hard especially for elderly people to flee unprepared."* — Tomioka resident
+
+### The Death Toll from Poor Evacuation
+
+| Cause | Estimated deaths |
+|-------|------------------|
+| Direct radiation exposure | ~1 (WHO projected cancer death) |
+| **Evacuation-related deaths** | **~2,000** |
+
+The largest group of "disaster victims" died not from radiation, but from:
+- Elderly patients dying during transport from hospitals and care homes
+- Chronic illness patients (dialysis, chemotherapy) who lost access to treatment
+- Stress-induced heart attacks, strokes, diabetes complications
+- Suicide and alcoholism from displacement trauma
+
+This is why the NAIIC report states the **evacuation itself became a manmade disaster within the disaster**.
 
 ---
 

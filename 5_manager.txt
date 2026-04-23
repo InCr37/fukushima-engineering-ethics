@@ -27,3 +27,50 @@ Mr. Yoshida thought several times that workers at the plant were going to perish
 “If Yoshida wasn’t there, the disaster could have been much worse,” said Reiko Hachisuka, the head of a business group in Okuma town, home to the Fukushima Daiichi plant, and one of the Diet panel members who investigated the accident. His charisma made “workers at the Fukushima plant believe they could die for Yoshida,” she said.
 
 The 2011 earthquake and tsunami left more than 18,000 people dead or missing and forced the evacuation of 160,000, eventually prompting the idling of all but two of Japan’s 50 functioning reactors for safety checks.
+
+---
+
+## Additional Notes on Masao Yoshida
+
+### Why He Was Different
+
+While TEPCO headquarters, regulators, and the government all failed in their responsibilities, Yoshida demonstrated what correct engineering judgment looks like under crisis:
+
+| Decision | Why It Mattered |
+|----------|-----------------|
+| Continued seawater injection despite HQ orders | Prevented complete meltdown of Unit 1 |
+| Stayed at plant for 9 months | Maintained leadership continuity |
+| Made on-site decisions without waiting for Tokyo | Avoided fatal delays |
+| Protected workers while demanding dangerous work | Balance between mission and safety |
+
+### The Contrast
+
+| Party | What They Did |
+|-------|--------------|
+| TEPCO HQ | Ordered cooling to STOP — prioritize equipment |
+| Regulators | Knew risks since 2006, did nothing |
+| Government | Confused chain of command, slow information |
+| **Yoshida** | **Made the ethical choice at the critical moment** |
+
+### His Legacy
+
+- **Never prosecuted** — he was a hero, not a defendant
+- **Died 2013** — before the TEPCO executives’ trial concluded
+- **The irony**: The one person who made the right calls died without seeing justice served on those who caused the disaster
+- His actions prove that **individual courage can still matter** even when entire systems fail
+
+### Key Quote for Presentation
+
+> *"If Yoshida wasn’t there, the disaster could have been much worse."*
+> — Reiko Hachisuka, Diet panel member
+
+> *"His charisma made workers at the Fukushima plant believe they could die for Yoshida."*
+> — Reiko Hachisuka
+
+### The Lesson
+
+Yoshida’s story raises a troubling question for engineering ethics:
+
+**If the only person who did the right thing was the one willing to defy his entire organization — what does that say about the system?**
+
+Most people in Yoshida’s position would have followed orders. He didn’t. But we cannot rely on individual heroism to prevent disasters. We need systems where following orders to do the wrong thing is **impossible**.
