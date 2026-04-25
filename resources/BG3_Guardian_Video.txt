@@ -1,0 +1,53 @@
+# Source: BG3_Guardian_Video
+# URL: https://www.theguardian.com/environment/video/2015/mar/10/fukushima-japan-nuclear-video
+# Note: This is a video page. Full transcript unavailable (hosted video, no auto-captions).
+#       The following contains the full article metadata and text description from The Guardian.
+
+================================================================================
+TITLE: Fukushima: 'Nuclear power and humans cannot coexist' — video
+PUBLISHED: 10 March 2015, 14:26 GMT
+AUTHORS: Richard Sprenger, Justin McCurry, Michael Condon, Ken Macfarlane, Michael Tait
+SOURCE: The Guardian
+TAGS: Fukushima, Japan disasters, Japan, Nuclear power
+================================================================================
+
+## VIDEO DESCRIPTION
+
+This video report was produced for the 4th anniversary of the Fukushima disaster 
+(March 11, 2015), covering:
+
+### Background Events
+- On March 11, 2011, Japan's most powerful earthquake triggered a massive tsunami
+- More than 18,000 people died along Japan's northeastern coast
+- The disaster triggered the meltdown of three reactors at Fukushima Daiichi 
+  Nuclear Power Station
+
+### Ongoing Cleanup
+- The cleanup operation is expected to take FORTY YEARS
+- Estimated cost: TENS OF BILLIONS OF DOLLARS
+
+### Reporting Focus
+The video interviewed two categories of key subjects:
+
+1. KEY FIGURES from critical moments of the Fukushima crisis
+   - These include plant operators, government officials, and emergency responders
+   who were on the ground during the disaster
+
+2. DISPLACED RESIDENTS — Tens of thousands of people forced to evacuate from 
+   contaminated communities who continue to live in "nuclear limbo"
+   - They remain unable to return to their homes
+   - Their futures remain uncertain years after the disaster
+
+## KEY QUOTE (Title)
+"Nuclear power and humans cannot coexist" — sentiment expressed by affected residents
+
+## CONTEXT NOTES
+- This Guardian video was part of broader coverage marking the 4-year anniversary
+- The phrase "nuclear limbo" refers to evacuees still unable to return to areas 
+  within the evacuation zone near the plant
+- At the time of filming (2015), the cleanup was still in very early stages
+
+## NOTE ON TRANSCRIPT
+This Guardian-hosted video does not have publicly accessible auto-generated captions
+or a text transcript. The content above represents the full textual information 
+available from the article page.

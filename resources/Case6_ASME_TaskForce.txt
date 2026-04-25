@@ -1,0 +1,584 @@
+# Source: Case6_ASME_TaskForce
+# URL: https://www.asme.org/engineering-topics/articles/nuclear/after-fukushima-asme-challenges-nuclear-industry
+
+After Fukushima Task Force Challenges Nuclear Industry - ASME
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+
+Menu
+ASME
+
+The American Society of Mechanical Engineers
+
+ASME Foundation
+Sections & Divisions
+Programs
+Sign In/Create Account
+Cart
+0
+Search
+
+Menu
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+After Fukushima, ASME Task Force Challenges Nuclear Industry 
+ 
+
+ Print
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+Topics & Resources
+ 
+Content
+ 
+After Fukushima, ASME Task Force Challenges Nuclear Industry
+
+
+ 
+ 
+After Fukushima, ASME Task Force Challenges Nuclear Industry 
+ 
+
+ Share on LinkedIn
+ Share on Twitter
+ Share on Facebook
+ Share via email
+ 
+ 
+
+ 
+
+ 
+
+
+
+ 
+ 
+ 
+Lack of accident planning for rare but credible natural events, such as the tsunami that overwhelmed Japan’s Fukushima Dai-ichi nuclear station, must be addressed by industry, states ASME task force.
+
+ 
+
+ 
+
+ 
+
+ In the wake of the 2011 earthquake and tsunami that devastated coastal regions of northern Japan and the Fukushima Dai-ichi nuclear power plant, an ASME task force of nuclear experts is calling for a new nuclear safety construct to go beyond current safety planning to prevent extensive societal disruption caused by radioactive releases from accidents. Developing appropriate safety procedures and guidelines will be critical for the public's acceptance of nuclear energy as a baseload power source, say task force leaders.
+
+
+ 
+
+
+ "We can't have the consequences of Fukushima happen again," says Regis A. Matzie, vice chairman of the task force and a former Westinghouse Electric Co. nuclear executive. "We're calling for significantly expanding what [the industry] has to protect against&mdash;a significant sociopolitical and economic impact on society."
+
+
+ After the accident in northern Japan,the surrounding area suffered radiological contamination that resulted in the relocation of more than 100,000 people. Economic losses cascaded through the Japanese and global economies as Japan shut down all of its nuclear generating stations. Around the world, governments began to reconsider nuclear energy's future, with Germany also planning to shut down its reactors.
+
+
+ Review
+
+
+ Those developments prompted the formation of the ASME Presidential Task Force on Response to Japan Nuclear Power Plant Events, which reviewed the Fukushima events and contrasted it with previous nuclear accidents at Three Mile Island and Chernobyl. Fukushima's units are the first nuclear reactors to experience core degradation due to a catastrophic external event, and the first light water reactors to experience accidents resulting in large radioactivity releases to the environment, states the task force's report. "Furthermore, the accident at Fukushima was the first multi-unit accident in power reactor history, complicating response and recovery," it states.
+
+
+ Dr. Nils Diaz chaired the ASME task force.
+
+
+ TMI's containment structure prevented significant release of radioactivity although the reactor core suffered a partial meltdown. Chernobyl "involved a reactivity excursion in a graphite-moderated, water-cooled reactor, resulted in a steam explosion, burning of the hot graphite in the core, and, absent a containment structure, release of the radioactive contents of the uranium fuel to the environment," according to the report. The common item linking the three is maintenance of core cooling, before or during the accident. "It is Nuclear Engineering 101: Cool the core," says Nils Diaz, task force chairman and former chairman of the U.S. Nuclear Regulatory Commission. At Fukushima, "There wasn't appropriate attention paid to accident planning."
+
+
+ Call for Change
+
+
+ The task force's call for a new "safety construct" is defined as a "set of planned, coordinated, and implemented systems ensuring that nuclear plants are designed, constructed, operated, and managed to prevent extensive societal disruption caused by radioactive releases from accidents, using an all-risk approach." The term "all-risk" requires consideration of "all credible hazards in developing probabilistic risk assessments," including "rare but credible events" that threaten the safety of a nuclear generating station. That includes very low-probability events, such as extreme floods and other natural phenomena that are unprecedented but conceivable at a given site, says the task force.
+
+
+ Essential elements of the task force's safety construct include:
+
+ 
+
+ Capability to address potential events beyond the design basis and possible cliff-edge effects;
+ 
+
+ Confirmation that the design basis or extended design basis includes rare yet credible events;
+ 
+
+ Use of an all-risk approach; ensuring core cooling for all phases of accident progression;
+ 
+
+ Improved human performance, organizational infrastructure, command and control, accident management, and emergency preparedness.
+ 
+
+ 
+ 
+
+
+
+ Such an approach greatly expands the industry's design basis of protecting public health and safety. "The fact is we've always fixated on public health and safety," says Diaz. The present body of knowledge establishes the importance of maintaining that focus yet highlights a relevant fact: Major consequences of severe accidents at nuclear plants have been socio-political and economic disruptions of enormous cost to society.
+
+
+ Perception
+
+
+ But perception is reality and the task force acknowledges the industry must be proactive not only in expanding the scope of safety planning but in communicating that to the public. Although Fukushima did not expose any fatal flaws in nuclear-generating technology, it did expose the need to extend the design basis to include rare yet credible events, including tsunamis and other natural events. To the public, the difference does not always matter.
+
+
+ "The primary nuclear power safety goal is and will continue to be protection of public health and safety," states the report. "However, the Fukushima Dai-ichi accident reveals the need for additional steps to further reduce the potential for socio-political and economic consequences resulting from radioactivity releases from accidents."
+
+
+ Diaz and Matzie emphasize that more rigorous studies will have to be site-specific and have buy-in from government. Noting the global nature of the industry, the report also calls for accountability from beyond regulatory agencies to plant designers, manufacturers, owners, and operators.
+
+
+ "This has to be part of a movement, a way of institutionalizing [change]," says Diaz. "Certainly no nation wants to accept [an edict] from another country."
+
+
+ The task force is not calling for the new safety construct to be imposed as a regulatory mandate. Rather, Diaz and Matzie say it should be the natural outcome of in-depth analysis of existing and additional design and management capabilities.
+
+
+ "We're giving a vision and a goal," says Matzie. "With the release of this report, we hope to get people to interact over the big-picture findings. We're also recommending ASME as a society to help convene a broad base of stakeholders to advance the recommendations."
+
+
+ Read the task force's report.
+We can't have the consequences of Fukushima happen again. We're calling for significantly expanding what [industry] has to protect against—a significant sociopolitical and economic impact on society.Regis A. Matzie, vice chairman, ASME Presidential Task Force on Response to Japan Nuclear Power Plant Events
+ 
+ 
+
+
+
+ 
+
+ 
+ 
+
+
+
+ 
+ 
+ 
+Lack of accident planning for rare but credible natural events, such as the tsunami that overwhelmed Japan’s Fukushima Dai-ichi nuclear station, must be addressed by industry, states ASME task force.
+
+ 
+
+
+
+
+ 
+
+ 
+
+ 
+Date Published:
+ 
+Jun 11, 2012 
+ 
+ 
+
+ 
+Author:
+ 
+John Kosowatz
+ 
+ 
+
+
+
+
+
+ 
+
+ 
+Tags:
+ 
+ 
+Electric Power
+ 
+Energy
+ 
+Oil and Gas Extraction
+ 
+ 
+
+
+ 
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+ 
+ 
+
+ 
+
+
+ 
+Related Content
+ 
+
+ 
+
+
+
+
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+Article
+ 
+ 
+ 
+ 
+
+
+ 
+Feb 19, 2026
+ 
+Surface Roughness Accelerates Hydrogen Embrittlement
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+Author
+ 
+Mark Crawford
+ 
+ 
+
+
+
+ 
+
+A team at Chiba University has identified the causal relationship between the roughness of pipe surfaces and the development of hydrogen embrittlement. 
+ 
+
+
+
+
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+Article
+ 
+ 
+ 
+ 
+
+
+ 
+Feb 11, 2026
+ 
+Paper Mills Have a Path to Net Zero, Researchers Say
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+Author
+ 
+Nancy Kristof
+ 
+ 
+
+
+ 
+
+ 
+
+ 
+ 
+
+ Energy Transformation Collection
+ 
+
+ 
+
+New NCSU research outlines how electrification and efficiency improvements could help paper mills reach net-zero emissions. 
+ 
+
+
+
+
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+Article
+ 
+ 
+ 
+ 
+
+
+ 
+Feb 10, 2026
+ 
+Hydrogen Hits the Rails
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+Author
+ 
+Michael Abrams
+ 
+ 
+
+
+ 
+
+ 
+
+ 
+ 
+
+ Energy Transformation Collection
+ 
+
+ 
+
+Shunting locomotives converted from diesel to hydrogen drive perform the same as before, without the emissions. 
+ 
+
+
+
+
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+Article
+ 
+ 
+ 
+ 
+
+
+ 
+Jan 20, 2026
+ 
+What Nuclear Energy Technologies Are Actually Advancing in 2026?
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+Author
+ 
+Sarah Alburakeh
+ 
+ 
+
+
+ 
+
+ 
+
+ 
+ 
+
+ Energy Transformation Collection
+ 
+
+ 
+
+A realistic look at what’s advancing in nuclear energy in 2026, including SMRs, fusion milestones, and new reactor projects.

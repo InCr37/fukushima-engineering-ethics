@@ -1,0 +1,116 @@
+# Source: Case1_NAIIC_Report
+# URL: http://warp.da.ndl.go.jp/info:ndljp/pid/3856371/naiic.go.jp/en/
+# Note: Original site is offline. Summary sourced from ReliefWeb (UN OCHA) 
+#       executive summary of the NAIIC report (2012).
+# Full PDF: https://reliefweb.int/report/japan/official-report-fukushima-nuclear-accident-independent-investigation-commission
+
+================================================================================
+THE OFFICIAL REPORT OF THE FUKUSHIMA NUCLEAR ACCIDENT INDEPENDENT INVESTIGATION 
+COMMISSION (NAIIC) — EXECUTIVE SUMMARY KEY FINDINGS
+Published: July 2012 | National Diet of Japan
+================================================================================
+
+## CORE CONCLUSION
+
+The report states clearly:
+
+"This accident cannot be regarded as a natural disaster. It was a profoundly man-made 
+disaster — one that could and should have been foreseen and prevented."
+
+Although the March 11, 2011 earthquake and tsunami served as the trigger, the Fukushima
+nuclear disaster was fundamentally a human-made catastrophe.
+
+--------------------------------------------------------------------------------
+
+## ROOT CAUSES ANALYSIS
+
+The report reveals multiple errors and deliberate negligence:
+
+| Problem Area          | Specific Issue                                              |
+|-----------------------|-------------------------------------------------------------|
+| Engineering Failures  | The plant could not withstand the March 11 events           |
+| Regulatory Failure    | TEPCO, regulators, and government responded inadequately    |
+| Cultural Factors      | Deep cultural traditions fostered a climate of negligence   |
+
+--------------------------------------------------------------------------------
+
+## CULTURAL ROOTS ("Made in Japan")
+
+The report specifically identifies several deep cultural problems in Japan:
+
+- Blind obedience to authority
+- Lack of a questioning spirit
+- Rigid "follow procedures" mentality
+- Prioritization of group consensus above individual responsibility
+- Insularity and resistance to outside oversight
+
+The report acknowledges:
+"If the people who were in the positions of responsibility had been other Japanese, 
+the result would likely have been the same."
+
+--------------------------------------------------------------------------------
+
+## NUCLEAR POLICY HISTORICAL CONTEXT
+
+- After the 1970s oil crisis, Japan accelerated nuclear development for energy security
+- Nuclear power was embraced by government and business as a policy goal
+- "Nuclear power became an unstoppable force, immune to scrutiny by civil society"
+  — Kiyoshi Kurokawa, Commission Chairman
+- Regulation and promotion of nuclear power resided in the SAME government ministry,
+  creating a fundamental conflict of interest
+
+--------------------------------------------------------------------------------
+
+## SYSTEMIC DEFICIENCIES
+
+1. Information Isolation: Japan's nuclear industry failed to absorb lessons from 
+   Three Mile Island and Chernobyl
+2. Culture of Cover-Up: Small-scale accidents were concealed; regulatory pressure 
+   was routinely resisted
+3. Bureaucratic Self-Preservation: Officials' primary duty was to protect their 
+   organization, not public safety
+
+--------------------------------------------------------------------------------
+
+## KEY SPECIFIC FINDINGS (from Executive Summary)
+
+On ignoring tsunami risk (2006):
+"Since 2006, the regulators and TEPCO were aware of the risk that a total outage 
+of electricity at the Fukushima Daiichi plant might occur if the tsunami were to 
+reach the level of the site."
+
+On inadequate evacuation plan:
+"Only 20% of the residents of the town hosting the plant knew about the accident 
+when evacuation from the 3-km zone was ordered at 9:23 p.m. on March 11."
+
+On radiation information failure:
+"[The government] failed to explain the risks of radiation exposure to different 
+segments of the population, such as infants and youths, expecting mothers, or 
+people particularly susceptible to the risks of radiation."
+
+On insularity from international knowledge:
+"The regulators also had a negative attitude toward the importation of new advances 
+in knowledge and technology from overseas. If [NISA] had passed on to TEPCO measures 
+included in the B.5.b subsection of the U.S. security order that followed the 9/11 
+terrorist action, and if TEPCO had put the measures in place, the accident may have 
+been preventable."
+
+--------------------------------------------------------------------------------
+
+## SIGNIFICANCE OF THE INVESTIGATION
+
+"This report criticizes many individuals and organizations, but its purpose is not —
+and should not be — to assign blame. The purpose must be to learn lessons from 
+this disaster."
+
+The NAIIC was the first investigation body in Japanese history authorized by the 
+legislature to operate independently of the bureaucratic system.
+
+--------------------------------------------------------------------------------
+
+## REPORT CORE MESSAGE
+
+The fundamental cause of this disaster was institutional and cultural — nuclear 
+policy was monopolized by the political-business elite, regulation failed, and 
+the spirit of critical inquiry was absent. The report calls on Japanese citizens 
+to reflect deeply on their responsibilities as individuals in a democratic society.

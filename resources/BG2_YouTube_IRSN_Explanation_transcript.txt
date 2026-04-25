@@ -1,0 +1,1644 @@
+# Transcript: BG2_YouTube_IRSN_Explanation
+# Video ID: ZJwg_McDGSI
+# URL: https://www.youtube.com/watch?v=ZJwg_McDGSI
+
+[00:10] on March 11th 2011 the earthquake that
+[00:13] occurred off the eastern coast of the
+[00:14] island of honu in Japan and the ensuing
+[00:16] tsunami devastated the Japanese
+[00:18] territory in the tohoku region causing
+[00:21] widespread destruction of local
+[00:22] infrastructures and Untold suffering for
+[00:24] the local population the natural
+[00:26] catastrophe also caused major damage to
+[00:28] the Fukushima dich nuclear power plant
+[00:31] which led to a core meltdown in three
+[00:33] nuclear reactors and loss of cooling for
+[00:36] several fuel storage
+[00:38] pool explosions also occurred in the
+[00:40] buildings of reactors 1 to four large
+[00:43] amounts of radioactive materials were
+[00:45] released into the environment the
+[00:46] accident was rated level seven on the
+[00:49] international nuclear event scale
+[00:51] beginning on March 11th irsn took action
+[00:54] to analyze the ongoing crisis and the
+[00:57] probable radiological consequences of
+[00:59] the nuclear accident accident in order
+[01:01] to provide the president of France the
+[01:03] French authorities and competent
+[01:04] agencies the nuclear Safety Authority
+[01:08] elected officials and the French
+[01:10] ambassador to Japan with upto-date
+[01:12] information during the critical phases
+[01:14] of the
+[01:15] accident irsn has also performed an
+[01:18] extensive analysis of the supplementary
+[01:20] safety reviews recently conducted on
+[01:22] nuclear facilities in order to draw the
+[01:24] initial conclusions concerning the
+[01:26] accident a more in-depth analysis of the
+[01:28] events that took place is still
+[01:30] necessary however to obtain more precise
+[01:32] operational feedback about the
+[01:35] events this film has been made to help
+[01:37] viewers better understand the events
+[01:39] that took place at Fukushima in its
+[01:41] current version the film focuses
+[01:43] entirely on the events that resulted in
+[01:45] a core meltdown in three of the reactors
+[01:47] at Fukushima the management of the
+[01:49] cooling systems for the fuel storage
+[01:51] pools and the impact of the accident on
+[01:54] plant employees on the local population
+[01:57] and on the environment are not covered
+[01:59] in the film
+[02:05] the Fukushima daichi nuclear power plant
+[02:07] is located 250 km Northeast of Tokyo the
+[02:11] plant operates six nuclear power units
+[02:14] on March 11th 2011 the day of the
+[02:17] earthquake units 1 2 and three were
+[02:20] operating at full power the fuel
+[02:22] assemblies from unit 4 had been unloaded
+[02:24] to a spent fuel pool and units five and
+[02:27] six were shut down the six units first
+[02:30] entered service between 1971 and 1979
+[02:34] they are operated by the Japanese
+[02:35] Electric Power Company
+[02:39] TECO the reactors at Fukushima are
+[02:41] boiling water reactors or
+[02:44] bwrs in a bwr water is vaporized when it
+[02:48] passes through the core and the produced
+[02:50] steam is then sent directly to the
+[02:52] turbine generator unlike a pwr a
+[02:55] pressurized water reactor in which the
+[02:57] steam is produced in a separate system
+[02:59] via steam generators the steam is
+[03:02] condensed after it has passed through
+[03:03] the turbine and then sent back to the
+[03:06] core the pressure inside the reactor
+[03:09] vessel is approximately 70 bar the water
+[03:12] level is more than 4 m above the fuel
+[03:15] and the temperature of the steam is
+[03:17] approximately 300°
+[03:19] C steam separators and steam dryers are
+[03:22] installed above the core to improve the
+[03:24] quality of the Steam for this reason the
+[03:27] control rods in the core which are used
+[03:29] to stop the nuclear reactions are
+[03:31] inserted from the bottom of the
+[03:33] vessel the containment for bwrs has
+[03:37] evolved as new models have been
+[03:38] introduced the containment for units 1
+[03:41] to 5 is known as Mark 1 with a
+[03:44] bulb-shaped drywell and a tus shaped wet
+[03:47] well both Wells are filled with inert
+[03:50] nitrogen to prevent hydrogen
+[03:54] explosions the bottom half of the Taurus
+[03:56] is filled with water if pressure must be
+[03:58] removed from the reactor vessel as part
+[04:00] of an emergency procedure the steam can
+[04:02] be transferred directly to the Taurus
+[04:05] where it is bubbled through the water
+[04:06] and condensed for this reason the Taurus
+[04:09] is often referred to as the suppression
+[04:11] pool it has other functions as well
+[04:14] which we will see later in the film the
+[04:16] fuel storage pool is located at the top
+[04:19] of the building to facilitate the
+[04:21] underwater transfer of the fuel it is
+[04:24] protected by a lightweight
+[04:26] structure when the reactor core is
+[04:28] isolated from the main turbine the bwr
+[04:31] can make use of emergency cooling
+[04:33] systems such as the rcic and hpci on
+[04:37] units 2 and three at Fukushima daichi
+[04:40] the rcic or Reactor Core isolation
+[04:43] cooling system is designed to evacuate
+[04:46] the residual heat from the core it may
+[04:48] be started manually or will start up
+[04:50] automatically either when the water
+[04:52] level drops in the reactor vessel or
+[04:54] when the pressure increases this system
+[04:56] uses a turbin driven pump which sends
+[04:58] water into the core from the condensate
+[05:00] storage tank or if this tank is empty
+[05:04] directly from the Taurus it is the steam
+[05:06] produced in the reactor vessel that
+[05:08] drives the turbine which then drives the
+[05:10] pump in order for the rcic to operate
+[05:14] there must be a minimum of approximately
+[05:16] 10 bar of pressure inside the reactor
+[05:18] vessel the hpci or high pressure coolant
+[05:22] injection system is similar to the rcic
+[05:26] but delivers a much higher output of
+[05:27] water it was originally designed to
+[05:30] compensate for any water loss due to a
+[05:32] break on the lines connected to the
+[05:33] reactor
+[05:35] vessel unit one which is older than the
+[05:38] others is not equipped with an RCI in
+[05:40] addition to the hpci it is equipped with
+[05:43] a semi- passive system called the IC or
+[05:47] isolation condenser the IC has two lines
+[05:50] with two heat exchangers that operate
+[05:52] via natural convection only one of the
+[05:54] lines is represented here the steam from
+[05:57] the core Rises through the pipes of the
+[05:59] IC these pipes pass through a condenser
+[06:02] a large water tank in which the steam is
+[06:04] condensed the water is then conveyed by
+[06:06] gravity back into the reactor vessel the
+[06:09] capacity of the water tank makes it
+[06:11] possible to cool the core for over 10
+[06:13] hours the water in the condenser tank
+[06:15] evaporates and is released into the
+[06:17] atmosphere via two exhaust vents located
+[06:20] on one of the walls of the reactor
+[06:21] building the condenser tank can be
+[06:23] refilled by a tanker
+[06:25] lry whether it be the IC the rcic or or
+[06:29] the hpci these emergency cooling systems
+[06:32] all maintain the proper level of liquid
+[06:34] water in the reactor the bwr has other
+[06:37] cooling systems that are not described
+[06:39] here because they prove to be inoperable
+[06:41] on units 1 2 and three as we will see
+[06:49] later if the emergency cooling systems
+[06:52] fail the water is vaporized when it
+[06:55] comes into contact with the fuel the
+[06:57] pressure increases to avoid a reactor
+[06:59] vessel breach safety relief valves limit
+[07:02] the pressure level in The Vessel to
+[07:04] approximately 75 bar by transferring the
+[07:07] excess steam into the water in the
+[07:08] Taurus where it is condensed safety
+[07:11] relief valves can also be used to
+[07:13] decrease pressure in the reactor vessel
+[07:15] and enable low pressure systems to
+[07:16] inject water as quickly as possible into
+[07:18] the system releasing pressure from the
+[07:21] vessel in this way is not an automatic
+[07:23] function operators at the plant must
+[07:25] intervene to perform this action the low
+[07:27] press cooling systems have the capacity
+[07:29] to inject large volumes of water in
+[07:31] order for them to work an electrical
+[07:33] power source is required which made it
+[07:35] impossible to use them on the three
+[07:37] damage reactors at Fukushima however
+[07:40] their lines were used to inject fresh
+[07:42] water and sea water into the core we
+[07:44] will see how these operations were
+[07:46] performed later on in the functional
+[07:49] diagrams if no means exist to evacuate
+[07:51] the excess heat the water in the Taurus
+[07:54] Heats to the boiling point it can no
+[07:56] longer assume its condensing function
+[07:58] pressure in the container containment
+[07:59] increases until it exceeds its design
+[08:02] limit of four to five bar to prevent
+[08:04] damage to the containment pressure
+[08:06] venting must be performed in this case
+[08:08] the excess gases are released into the
+[08:10] atmosphere if no water is added to the
+[08:13] reactor vessel to compensate for
+[08:14] evaporation the water level drops until
+[08:17] it reaches the TAF top of active fuel
+[08:21] this is the top of the active section of
+[08:23] the fuel rods as the evaporation
+[08:25] continues more and more of the fuel is
+[08:28] uncovered if no water is injected into
+[08:30] the reactor vessel the fuel temperature
+[08:32] increases until it reaches the melting
+[08:34] point approximately 2800° cus within
+[08:38] just a few hours the melted fuel mixes
+[08:41] together with the Structural Materials
+[08:42] to form what is known as chorum the
+[08:45] chorum slumps to the bottom of the
+[08:47] reactor vessel begins to erode The
+[08:49] Vessel and eventually falls to the
+[08:51] concrete basement inside the containment
+[08:54] how much corium fell into the basement
+[08:56] to what depth did it erode the concrete
+[08:58] did it pierce the the steel liner of the
+[09:00] containment structure as of now it is
+[09:02] still not possible to determine the
+[09:04] state of the chorum in the three reactor
+[09:07] units let's go back to the fuel rods and
+[09:10] the Damage that occurs when they
+[09:11] overheat the zirconium cladding around
+[09:14] the fuel pellets begins to fail at
+[09:16] approximately 800° C at approximately
+[09:19] 1200° C the zirconium begins to oxidize
+[09:23] until the fuel finally melts at 2800° C
+[09:26] oxidization occurs between the zirconium
+[09:28] and the water generating large
+[09:31] quantities of heat that make the core
+[09:33] even hotter and also producing large
+[09:35] quantities of
+[09:36] hydrogen the gases released inside the
+[09:38] containment are a mixture of steam
+[09:41] hydrogen and fishing products the
+[09:43] hydrogen May ignite and explode but to
+[09:46] prevent this the containment is filled
+[09:48] with inert nitrogen at this point there
+[09:50] is no particular
+[09:52] risk normally it is the role of the
+[09:55] venting system to convey all the gases
+[09:57] outside the reactor building via the
+[09:59] vent stack but if the pressure is too
+[10:02] high hydrogen May escape from the
+[10:04] containment through uncontrolled
+[10:05] passages such as the dryw head
+[10:08] flange the hydrogen May then collect in
+[10:11] the reactor building setting off a
+[10:13] violent reaction with the oxygen in the
+[10:14] air if specific concentrations are
+[10:17] reached this is most likely what
+[10:19] happened at the unit in
+[10:26] Fukushima due to faulty instrument data
+[10:29] closed valves and defective cooling
+[10:31] systems the staff at Fukushima was faced
+[10:34] with enormous obstacles as they
+[10:35] attempted to manage the accident we will
+[10:38] now review the major difficulties they
+[10:46] encountered under normal conditions the
+[10:49] pressure is 69 bar inside the reactor
+[10:51] vessel and one bar in the containment
+[10:53] the water level is 4.37 m above the top
+[10:57] of active fuel pressure pressure and
+[10:59] temperature are the two essential
+[11:01] parameters that must be monitored in
+[11:03] accident situations the cooling systems
+[11:05] are programmed to start up at various
+[11:07] set points the hpci for example is
+[11:11] activated when the water drops to 1.95 m
+[11:14] above the top of active fuel if the
+[11:16] display screens go blank in the control
+[11:18] room The Operators can still perform
+[11:20] measurements using backup batteries but
+[11:23] to do so they must be very familiar with
+[11:26] the electrical connections at the plant
+[11:28] and the entire operation is extremely
+[11:30] timeconsuming what's more water level
+[11:33] measurements are known to be unreliable
+[11:35] once the core is uncovered when the
+[11:38] accident occurred the employees at
+[11:40] Fukushima were not necessarily aware of
+[11:47] this the valves proved to be a major
+[11:49] problem at the plant it was impossible
+[11:52] to operate certain valves by remote
+[11:54] control took a great deal of time to
+[11:56] connect new batteries and proved extreme
+[11:59] ly difficult to operate the valves
+[12:00] manually all of these problems had major
+[12:03] repercussions on the accident we will
+[12:05] now look at a few
+[12:07] examples each line on the IC has four
+[12:10] isolation valves two outside of the
+[12:12] containment which run on direct current
+[12:14] or DC power and two inside the
+[12:17] containment which use alternating
+[12:19] current or AC power to operate the
+[12:22] interior valves AC Motors are used
+[12:24] instead of DC motors because they can
+[12:26] better withstand the temperature and
+[12:27] pressure conditions inside the
+[12:29] containment when the DC power supply is
+[12:32] cut off all four valves close
+[12:34] automatically this is a pre-programmed
+[12:36] safety function the IC was therefore
+[12:39] automatically shut down following the
+[12:41] tsunami and both DC and AC power were
+[12:44] needed to restart the system to make
+[12:46] things even more difficult it's quite
+[12:48] likely that the valves inside the
+[12:50] containment did not have enough time to
+[12:52] completely close the closing takes 20 to
+[12:54] 30 seconds but the required AC power was
+[12:58] lost during the Clos closing operation
+[13:00] which had been automatically activated
+[13:01] when the DC power was lost this complex
+[13:04] setup resulted in a great deal of
+[13:06] confusion after the accident
+[13:08] occurred the hpci system has several
+[13:11] valves including a turbine stop valve
+[13:14] and a steam regulation valve to start up
+[13:16] the hpci it is necessary to supply these
+[13:19] two valves with lubricants by activating
+[13:21] the auxiliary oil pump which is powered
+[13:23] by a DC motor once the hpci is activated
+[13:27] it can provide the necessary power on
+[13:29] its own when the external power supply
+[13:31] was lost batteries were urgently needed
+[13:33] to start the hpci what's more the start
+[13:36] and stop Cycles drain a great deal of
+[13:39] power from the batteries this last point
+[13:41] was a major concern for the operators of
+[13:43] unit 3 the only unit where the hbci was
+[13:46] able to
+[13:48] function each unit has two vent lines
+[13:51] known as reinforced lines which were
+[13:53] installed between 1999 and 2001 in case
+[13:56] of severe accidents one line is
+[13:59] connected to the Taurus the other to the
+[14:01] dryw in the containment if venting
+[14:03] proves necessary the line to the Taurus
+[14:06] is given priority because the water in
+[14:08] the Taurus acts as a filter trapping a
+[14:11] high percentage of the fishing products
+[14:13] present in the containment in the form
+[14:14] of
+[14:15] aerosols each line is equipped with a
+[14:17] rupture disc and three valves one motor
+[14:20] operated valve and two air operated
+[14:23] valves the ruptured disc breaks when the
+[14:25] pressure exceeds approximately 5.3 bar
+[14:29] the two air operated valves on the taus
+[14:31] line known as the large and small vent
+[14:33] valves are mounted in parallel which
+[14:35] means either one or the other can be
+[14:37] opened normally all the valves are
+[14:40] activated from the control room but if
+[14:41] electrical power is lost an operator
+[14:44] must go to the valve to open it the
+[14:46] motor operated valve is equipped with a
+[14:47] wheel handle and can be opened manually
+[14:50] the small air operated vent valve can
+[14:52] also be open manually with the wheel
+[14:53] handle but access to the handle is
+[14:55] difficult the large vent valve is even
+[14:58] more difficult to open a generator or a
+[15:01] battery are required to energize the
+[15:02] solenoid valve that opens the compressed
+[15:05] air vessel another solution also exists
+[15:08] a portable compressor can be used to
+[15:09] directly inject compressed air as we
+[15:12] will see later on The Operators would
+[15:14] encounter major difficulties with these
+[15:16] air operated valves both when attempting
+[15:18] to open them and when attempting to keep
+[15:21] them
+[15:25] open two low press systems the RH h r
+[15:29] and the Cs systems were not activated
+[15:31] after depressurization of the cores
+[15:33] because their pumps had either been
+[15:35] flooded or lack the necessary electrical
+[15:37] power the rhr or residual heat removal
+[15:41] system is used following a normal
+[15:42] reactor shutdown to remove residual heat
+[15:45] via water seawater heat
+[15:47] exchanger the valve configurations can
+[15:50] be changed on the rhr to inject low
+[15:52] pressure water into the core to cool the
+[15:55] Taurus or to spray the containment
+[15:59] the Cs or cor spray system is designed
+[16:02] for use in accident situations such as a
+[16:04] large line brake but not for major
+[16:07] accidents The Operators at the plant
+[16:10] therefore used alternative means such as
+[16:12] fire pumps to draw water from fire
+[16:14] systems and fire trucks freshwat or if
+[16:18] none was available sea water was then
+[16:20] injected into the open system using the
+[16:22] existing lines of the Cs and rhr Via
+[16:25] interconnecting pipes these
+[16:27] interconnecting pipes were installed at
+[16:29] the units between 1999 and
+[16:37] 2001 on Friday March 11th 2011 at 2:46
+[16:42] p.m. local time Japan was struck by an
+[16:44] earthquake measuring 8.9 on the rter
+[16:46] scale it was the fourth largest
+[16:48] earthquake on record since the 18th
+[16:50] century and the largest ever recorded in
+[16:53] Japan when the initial shocks were
+[16:55] detected an emergency shutdown was
+[16:57] performed on all the nuclear reactors in
+[17:00] operation at the four power plants along
+[17:02] the country's eastern coast the largest
+[17:05] shocks arrived 30 seconds later the
+[17:07] building shook for nearly a full minute
+[17:10] in the control rooms at the Fukushima
+[17:12] daichi nuclear power plant 18 180 km
+[17:15] from the epicenter the shift teams made
+[17:17] sure that units 1 2 and three were
+[17:20] properly shut down with all their
+[17:21] control rods
+[17:23] inserted many alarms were activated
+[17:25] including the fire alarm the shift
+[17:27] supervisors knew that the dust raised by
+[17:29] the earthquake could activate the fire
+[17:31] alarm as this had already occurred at
+[17:33] the kashiwazaki karwa nuclear power
+[17:36] plant also operated by tipco during an
+[17:38] earthquake in July 2007 since then the
+[17:42] fire alarms had been modified to make
+[17:44] sure they could not be turned off if a
+[17:45] fire actually broke out the shift
+[17:48] supervisors acknowledged the alarms
+[17:50] which then turned off leading them to
+[17:52] believe that no actual fire had occurred
+[17:55] the shift teams also received another
+[17:57] signal indicating that the isolation
+[17:59] valves had closed on the main steam
+[18:02] pipe as a result of the earthquake all
+[18:05] external power supplies to the plant had
+[18:07] been lost 12 emergency generators two
+[18:10] for each unit started up normally and
+[18:13] began powering the emergency cooling
+[18:15] systems in unit one the IC started up
+[18:19] automatically in response to a reactor
+[18:21] high pressure signal indicating pressure
+[18:24] above 71.3 bar for at least 15 seconds
+[18:28] the pressure decreased immediately the
+[18:31] shift team wanted to maintain the
+[18:32] pressure between 60 and 70 bar while
+[18:35] respecting the allowable rate of
+[18:37] temperature change 55° C per hour
+[18:41] maximum The Operators therefore
+[18:43] controlled the IC manually via the
+[18:45] return isolation valve or
+[18:47] m3a during the 30-minute period before
+[18:50] the tsunami struck the IC would be
+[18:53] stopped and restarted three times in
+[18:56] addition because the main steam valve
+[18:58] valve was closed the shift team thought
+[19:00] that the safety relief valves on the
+[19:02] reactor vessel would have to open at
+[19:04] some point thereby increasing the
+[19:06] temperature of the water in the Taurus
+[19:08] in anticipation the team activated a
+[19:11] dedicated cooling system for the water
+[19:13] in the
+[19:14] Taurus in unit two the shift team
+[19:17] manually activated the rcic as per
+[19:20] standard procedure one minute later the
+[19:23] water level Rose in the reactor vessel
+[19:25] and the rcic shut down automatically
+[19:28] 9 minutes later the shift team started
+[19:31] it back up manually up until the arrival
+[19:34] of the tsunami the rcic would go through
+[19:37] several start stop cycles of this kind
+[19:40] when the temperature of the water in the
+[19:41] Taurus began to rise the shift team
+[19:43] activated the rhr
+[19:46] system the scenario for unit 3 could
+[19:49] have been the same as for unit 2 but
+[19:52] when the Tsunami alert was issued to all
+[19:53] plant Personnel the shift team thought
+[19:56] that the seawater pumps might lack water
+[19:58] during the back Rush of the tsunami and
+[20:00] be damaged unlike the shift team for
+[20:02] units 1 and two the team at units 3 and
+[20:05] four therefore decided not to start up
+[20:07] the rhr it should be noted that at
+[20:09] Fukushima daichi the emergency plan
+[20:12] states that the shift supervisors are
+[20:14] responsible for controlling the units if
+[20:16] an accident should
+[20:22] occur immediately following the
+[20:24] earthquake several emergency response
+[20:26] teams were formed the first team was
+[20:28] formed at the Fukushima daichi power
+[20:30] plant on the second floor of the seismic
+[20:32] isolation building that had recently
+[20:34] been built here again the new building
+[20:37] was a result of feedback obtained after
+[20:39] the earthquake of July 2007 at the
+[20:41] kashiwazaki karwa plant where the office
+[20:44] building that was to house the emergency
+[20:45] response team had been severely
+[20:50] damaged the station Emergency Response
+[20:53] Center at Fukushima was directed by the
+[20:55] plants manager site superintendent sa
+[20:58] Yoshida who will simply be referred to
+[21:00] as the superintendent from this point on
+[21:02] he was seated at the main table with the
+[21:04] unit superintendant Deputy directors
+[21:07] reactor Chief engineers and the section
+[21:10] Chiefs for the function teams staff
+[21:12] members of the function teams were
+[21:14] stationed in booths behind the
+[21:15] respective leaders when a function team
+[21:17] obtained information that needed to be
+[21:19] shared with all those at the response
+[21:21] Center they reported it to their section
+[21:23] chief who then announced it via
+[21:25] microphone when a decision was made at
+[21:27] the table the leader of the relevant
+[21:29] team communicated it to his team members
+[21:32] and gave them directions to perform the
+[21:34] necessary work in addition to the
+[21:36] station Response Center two other
+[21:38] emergency response centers were
+[21:40] assembled in Tokyo One at TECO
+[21:43] headquarters the other at the prime
+[21:45] minister's office these centers were
+[21:47] also in communication with an off-site
+[21:49] center located 5 km from the nuclear
+[21:52] power station which sered both Fukushima
+[21:54] daichi and Fukushima D the two PCO
+[21:58] response centers one at the nuclear
+[22:00] power station and the other in Tokyo
+[22:02] were both equipped with systems
+[22:04] indicating the reactor parameters on
+[22:06] large display screens it was their duty
+[22:08] to take the appropriate measures to
+[22:10] control the accident and limit the
+[22:12] consequences the Emergency Response
+[22:14] Center at the prime minister's office
+[22:16] gathered information and made decisions
+[22:18] concerning population protection such as
+[22:21] evacuation measures and protection from
+[22:23] exposure to assess the situation the
+[22:26] Japanese government was assisted by
+[22:28] officials from the country's nuclear and
+[22:30] Industrial safety agency the Nisa and
+[22:33] from the nuclear safety commission the
+[22:35] NSC the off-site center had many tasks
+[22:39] one of which was to measure
+[22:40] radioactivity in the
+[22:45] environment less than 1 hour after the
+[22:48] earthquake beginning at 3:27 p.m. a
+[22:51] series of tsunami waves struck the
+[22:53] nuclear power station the first wave was
+[22:55] 4 M high and was stopped by the brake
+[22:58] water which was designed to withstand a
+[22:59] tide level of plus 5.7 M just 8 minutes
+[23:03] later a wave 14 M High struck the
+[23:06] station submerging the platforms of unit
+[23:08] 1 to 4 located 10 m above sea
+[23:11] level the doors of the turbine buildings
+[23:14] were not sealed and water flooded into
+[23:16] the basements the electricity panels
+[23:19] were Swept Away by the tsunami the sea
+[23:21] water pumps for the water cooled
+[23:23] emergency diesel generators and many of
+[23:26] the diesel generators themselves were
+[23:28] completely submerged as were the
+[23:30] batteries the reactors had been
+[23:32] completely cut off from all sources of
+[23:34] electrical power and cooling The Only
+[23:37] Exception was the air cooled emergency
+[23:38] generator for unit 6 which remained
+[23:41] operational it would alternate between
+[23:43] units 5 and six to cool the cores and
+[23:46] fuel storage pools at 3:42 p.m. via the
+[23:50] tbco headquarters the superintendent
+[23:53] notified the Japanese nuclear Safety
+[23:54] Authority the Nisa that a nuclear crisis
+[23:57] had had occurred at the Fukushima daichi
+[23:59] power plant the N immediately informed
+[24:02] the prime minister's
+[24:04] office the control room was in the dark
+[24:07] the alarm stopped functioning all the
+[24:09] indicator lights on the control panels
+[24:11] were extinguished except for at unit 3
+[24:14] where the batteries located in the
+[24:16] basement of the turbine building were
+[24:18] not submerged The Operators had no
+[24:20] information about the status of the
+[24:22] valves the water levels or the
+[24:23] containment pressure no means of
+[24:26] communication except for fixing line
+[24:28] telephones and no emergency procedure to
+[24:30] assist the operators as these procedures
+[24:33] did not cover the current crisis in the
+[24:35] emergency response centers the reactor
+[24:38] parameters were no longer displayed on
+[24:39] the big screens it was under these
+[24:42] conditions that the various response
+[24:43] teams had to manage the
+[24:49] accident this chronological timeline
+[24:52] shows in different colors the events
+[24:53] that took place at the three units from
+[24:55] March 11th to the 15th 2011
+[24:58] the green shows the core cooling via the
+[25:00] emergency systems the IC RCC and
+[25:04] hpci red indicates a loss of cooling
+[25:08] light blue indicates the ejection of
+[25:09] fresh water and dark blue the injection
+[25:12] of sea waterer V indicates venting and
+[25:16] H2 is a hydrogen explosion as we can see
+[25:19] on the graph reactor cooling was lost
+[25:21] for 14 hours 6 and 1/2 hours and 7 hours
+[25:25] respectively a great deal of time time
+[25:27] passed before alternative water
+[25:29] injection systems could be connected to
+[25:31] the three reactors often more than 12
+[25:33] hours and the same was true for the
+[25:35] venting it now seems likely that no
+[25:38] venting was ever performed on unit 2
+[25:40] which resulted in containment
+[25:42] leaks why did it take so long what
+[25:45] obstacles were encountered by The
+[25:46] Operators that resulted in the cor
+[25:49] meltdowns we will try to answer these
+[25:51] questions from the vantage point of the
+[25:52] Emergency Response Center at the power
+[25:54] station not under actual crisis
+[25:56] conditions with inoperable screens but
+[25:59] in a fictional Response Center in which
+[26:01] the events of the first four days of the
+[26:03] accident are recreated and
+[26:17] analyzed at unit one the shift team
+[26:20] thought it would not be possible to
+[26:22] start the hpci due to the loss of all
+[26:24] sources of DC power the idea of
+[26:27] replacing the batteries was ruled out
+[26:29] the roads leading to the plant were
+[26:31] filled with debris and it would have
+[26:33] been particularly difficult to install
+[26:34] the batteries in the submerged reactor
+[26:36] building the only remaining emergency
+[26:38] system was the IC but the management of
+[26:41] this system would prove to be extremely
+[26:43] chaotic for 8 hours in fact no one was
+[26:47] aware that the valves had automatically
+[26:49] closed when the tsunami struck the safe
+[26:52] position of these valves is the closed
+[26:54] position the valves automatically move
+[26:56] to this position in certain situations
+[26:58] including a loss of electrical power no
+[27:01] one at the plant was aware of this
+[27:02] closing neither the shift team nor the
+[27:05] staff at the Emergency Response Center
+[27:08] when the IC is operating the generated
+[27:10] steam blows noisily through two exhaust
+[27:12] vents located on the west wall of the
+[27:15] reactor
+[27:16] building but no one on the shift team
+[27:18] went to visibly check the vents to make
+[27:20] sure the IC was working in fact no one
+[27:23] at the plant had ever seen an icy
+[27:25] operate prior to the earthquake
+[27:28] other indications should have enabled
+[27:29] the operators to clearly determine that
+[27:31] the IC was not operating the water level
+[27:34] measurement which reappeared for 14
+[27:36] minutes near 5:00 p.m. showed that the
+[27:38] water level was dropping rapidly and
+[27:41] that the top of the active fuel would be
+[27:43] reached in just 1
+[27:46] hour the indicator lamps which came back
+[27:49] on near 6 p.m. probably because one of
+[27:51] the batteries submerged by sea water had
+[27:53] dried indicated that two of the IC
+[27:56] valves were closed
+[27:58] the fact that the operators open these
+[27:59] valves at 6:18 p.m. only to close them
+[28:03] again at 6:25 p.m. fearing a break in
+[28:05] the IC piping clearly illustrates how
+[28:08] uncertain they were of the proper
+[28:10] procedure to follow but they were unable
+[28:13] to make these fears known as the
+[28:15] messages they sent to the emergency
+[28:16] response team were difficult to
+[28:18] understand for example the Japanese
+[28:21] commission that investigated the
+[28:22] accident criticized them for not using
+[28:24] clear language such as the IC is
+[28:27] inoperative because we close the valves
+[28:30] water must be injected into the reactor
+[28:32] via the fire protection system but we
+[28:34] have no batteries to open the main steam
+[28:36] safety relief valves we need help of
+[28:38] course after the fact it seems easy to
+[28:41] clearly State the information in this
+[28:43] way in any case the superintendent and
+[28:46] the members of the emergency response
+[28:48] team took no action they were in all
+[28:50] likelihood much more worried about the
+[28:52] condition of unit 2 with no information
+[28:55] about water levels available following
+[28:56] the tsunami they had supposed that the
+[28:58] IC System at unit 1 was operating
+[29:01] correctly but that the rcic system at
+[29:04] unit 2 had failed this reasoning is
+[29:07] actually quite logical the IC on unit
+[29:09] one is a semi-passive system with few
+[29:12] complex components unlike the rcic on
+[29:15] unit 2 which includes a steam turbine
+[29:17] and a pump a better understanding of how
+[29:20] the valves on the IC System function may
+[29:23] have enabled them to make the right
+[29:24] decisions much sooner at around 9:00
+[29:27] p.m. M batteries taken from Vehicles
+[29:30] were connected in series by the shift
+[29:31] team to obtain 24 volts of power they
+[29:34] connected the batteries to terminals
+[29:36] located on the back of the control panel
+[29:38] in order to measure the water level to
+[29:41] do so they first had to look through
+[29:43] approximately 10,000 pages of wiring
+[29:46] diagrams because the electronic search
+[29:48] system was
+[29:49] unavailable at 99 p.m. the measurement
+[29:53] of the water level in unit 1 was finally
+[29:55] obtained 200 m mm above the top of the
+[29:58] active fuel a measurement such as this
+[30:01] taken inside a reactor vessel with a
+[30:03] severely damaged core was certainly
+[30:05] incorrect as would later be confirmed by
+[30:07] the curve that was recalculated
+[30:09] following the accident but it was not
+[30:11] called into question by the members of
+[30:12] the Emergency Response Team who were
+[30:14] still convinced that the IC was
+[30:16] operating the misunderstanding would
+[30:18] last until the end of the day when the
+[30:20] super intendant would receive two
+[30:22] important pieces of information
+[30:24] concerning unit one first a member of
+[30:27] the shift team was unable to enter the
+[30:28] reactor building because his dosam meter
+[30:31] indicated 800 micro CTS after standing
+[30:34] in front of the access doors for just 10
+[30:36] seconds second a small generator was
+[30:38] connected to the pressure sensor in the
+[30:40] drywell the measured pressure was six
+[30:43] bar almost two bar above the design
+[30:45] pressure the superintendent and the
+[30:47] Emergency Response Team finally grasped
+[30:50] the situation it was the situation at
+[30:52] unit 1 which was the most urgent it was
+[30:54] now 11:50 p.m. more than than 8 hours
+[30:57] had passed without the core being
+[31:12] cooled after the tsunami struck 14 hours
+[31:15] passed before water was finally injected
+[31:17] into the reactor there were several
+[31:20] reasons for this long delay in the hours
+[31:22] following the tsunami the superintendent
+[31:24] didn't know that the IC had stopped
+[31:26] operating
+[31:27] nor that the core was no longer being
+[31:29] cooled however near 5:00 p.m. when he
+[31:32] learned that the water level had dropped
+[31:34] and might reach the top of the active
+[31:35] fuel within an hour he gave the order to
+[31:37] study the different possibilities for
+[31:39] injecting water including via fire
+[31:41] trucks the shift teams were tasked with
+[31:43] connecting the fire protection system to
+[31:45] the cor spray system their mission would
+[31:48] take more than 12 hours the earthquake
+[31:50] had caused damage to the pipes
+[31:52] connecting the fire sstn to the embedded
+[31:54] water discharge port and the fire pump
+[31:56] itself itself proved to be inoperable it
+[31:59] was therefore necessary to use fire
+[32:00] trucks of the three fire trucks at the
+[32:03] station on March 11th only one remained
+[32:05] operable after the tsunami fire trucks
+[32:08] were called in as
+[32:09] reinforcements but did not arrive until
+[32:11] the following morning using fire trucks
+[32:13] to inject water into the core was not
+[32:15] covered by the emergency plan the shift
+[32:18] team was only responsible for the
+[32:19] internal portion of the water lines and
+[32:21] not the external portion the in-house
+[32:23] firefighting team was responsible for
+[32:25] extinguishing fires not for
+[32:27] participating in core cooling operations
+[32:30] as a result no teams at the plant had
+[32:33] been foreseen for such an operation and
+[32:35] none of the TECO employees knew how to
+[32:37] drive nor operate the fir truck finally
+[32:40] employees of nme an external affiliate
+[32:42] responsible for fire protection at the
+[32:44] plant accepted to operate the fire truck
+[32:47] but only after some hesitation as their
+[32:49] contract with TECO did not cover any
+[32:51] work amid high levels of radiation the
+[32:53] nonme employees and the shift teams were
+[32:56] not familiar with the site and were not
+[32:58] able to locate the embedded water
+[33:00] discharge Port before March 12th at 4:00
+[33:02] a.m. even if the fire protection line
+[33:04] could have quickly been configured it
+[33:07] was impossible to inject water without
+[33:09] removing pressure from the reactor
+[33:10] vessel but in order to open the safety
+[33:13] relief Valves and remove pressure from
+[33:14] the reactor vessel batteries were
+[33:16] required in the control room the
+[33:18] batteries could have been removed from
+[33:19] buses and lores as had been done
+[33:21] elsewhere and then connected in series
+[33:24] to obtain 120 volt power but none of the
+[33:27] teams took the initiative to perform
+[33:28] this
+[33:30] operation finally on March 12th at 2:45
+[33:34] a.m. The Operators noted that the
+[33:35] pressure in the reactor had dropped to 8
+[33:37] bar without the safety relief valves
+[33:40] having been activated the precise reason
+[33:42] behind this depressurization is still
+[33:44] unknown brakes may have formed in the
+[33:46] reactor vessel bottom head or in the
+[33:47] monitoring tubes inside the vessel
+[33:50] allowing pressure to leak out or leaks
+[33:52] may have occurred through a break on the
+[33:53] pressure relief line or the hot steam
+[33:56] may have d damaged a relief valve
+[33:58] causing it to remain blocked in an open
+[33:59] position this unexpected
+[34:02] depressurization made it possible to
+[34:04] inject fresh water via a firetruck pump
+[34:06] at 5:46 a.m. using water from a fire
+[34:09] sstn at the site unit one had remained
+[34:12] without cooling for 14 hours which is an
+[34:15] intolerable amount of time considering
+[34:17] that the water level had dropped below
+[34:19] the top of the active fuel after only 2
+[34:21] and 1/2 hours the curve for the water
+[34:24] level was recalculated after the
+[34:26] accident in International agencies agree
+[34:28] on the results of the simulation which
+[34:30] demonstrates how inaccurate the measured
+[34:32] values actually were on March 11th at 6
+[34:35] p.m. the water level reached the top of
+[34:37] the active fuel and 2 hours later the
+[34:40] fuel was completely uncovered the night
+[34:43] of the tsunami the core was already lost
+[34:46] later on on March 12th at 2:53 p.m. the
+[34:50] fresh water supplies were completely
+[34:52] used up approximately 80 tons of water
+[34:55] had been injected into the re reactor
+[34:57] the superintendent gave the order to
+[34:59] inject the sea water that had collected
+[35:01] in the backwash valve pit during the
+[35:03] tsunami the installation of the line had
+[35:05] nearly been completed when an explosion
+[35:08] most likely due to hydrogen blew the top
+[35:10] off the reactor building the line was
+[35:12] damaged by the explosion once it was
+[35:14] repaired the sea water could be injected
+[35:17] beginning at 7:04 p.m. at 8:45 p.m.
+[35:21] boric acid was added to the sea water in
+[35:23] the pit to prevent any risk of
+[35:25] criticality
+[35:39] the rcic at unit 2 operated for
+[35:42] approximately 3 days up until March 12th
+[35:45] at 4:00 a.m. the rcic Drew water from
+[35:49] the condensate storage tank when water
+[35:51] levels in the tank grew low the shift
+[35:54] team manually operated three motor
+[35:55] operated valves to change the water
+[35:57] source of the rcic to the Taurus it was
+[36:00] on March 14th at 1:25 p.m. that the
+[36:04] operators would note a drop in the water
+[36:06] level and consider that the rcic must
+[36:08] have stopped on March 13th at noon the
+[36:12] superintendent gave the order to prepare
+[36:14] for the injection of seawater in case
+[36:16] the rcic should stop running sea water
+[36:19] was to be injected due to a lack of
+[36:21] available freshwater The Operators
+[36:23] installed a series of connections
+[36:25] between different lines to change the
+[36:27] water source to seawater in parallel
+[36:30] they made preparations to depressurize
+[36:32] the reactor 10 12vt batteries were
+[36:34] brought into the control room and
+[36:36] connected in a series configuration to
+[36:37] the safety relief valve control panel at
+[36:40] the end of the afternoon on March 13th
+[36:43] the injection line was ready and the
+[36:45] current required to open the safety
+[36:46] relief valves was now available all the
+[36:49] teams could do now was remain on standby
+[36:51] in case the rcic should stop operating
+[36:54] the backwash valve pit was a source of
+[36:56] conc concern for the response Center it
+[36:58] was the Lone source of seawater for all
+[37:00] three units and its capacity was limited
+[37:04] on the afternoon of March 13th it was
+[37:06] providing water to two units units one
+[37:09] and units 3 which had both lost their
+[37:11] normal cooling systems the IC the rcic
+[37:15] and the
+[37:16] hpci providing water to a third unit
+[37:19] number two might completely empty the
+[37:22] pit in response to orders from the
+[37:24] Emergency Response Center the in house
+[37:26] firefighters and workers from an outside
+[37:29] company nme searched for points from
+[37:31] which they could pump sea water but
+[37:33] without success they would attempt for
+[37:36] example to pump sea water directly from
+[37:38] the north draft K but the suction
+[37:40] pressure of their fire pump was too weak
+[37:42] to pull the water up from the sea
+[37:44] approximately 20 M below on March 14th
+[37:47] at 5:00 a.m. four fire trucks from other
+[37:50] Teo thermal power stations came to
+[37:52] Fukushima to provide backup several of
+[37:55] the fire trucks were placed in a line
+[37:57] making it possible to pump sea water
+[37:58] from the north draft K to fill the
+[38:00] backwash valve pit what's more at
+[38:03] approximately 10:00 a.m. seven water
+[38:05] supply vehicles from the Japanese
+[38:07] self-defense Force delivered 35 tons of
+[38:09] water two of these seven Vehicles were
+[38:12] parked in front of the backwash valve
+[38:13] pit at 11:01 a.m. an explosion occurred
+[38:16] in the reactor building of unit 3 it may
+[38:19] have been due to the presence of
+[38:20] hydrogen as is thought to be the case in
+[38:22] unit one but the question is still a
+[38:24] matter of some debate Rubble and debris
+[38:27] fell into the backwash valve Pit and the
+[38:29] fire pumps and hoses were damaged the
+[38:31] injection line was still not operational
+[38:33] when the rcic failed at 1:25 p.m. the
+[38:37] core was no longer cooled the injection
+[38:40] line was finally repaired by 243 p.m.
+[38:43] but a series of aftershocks forced the
+[38:44] firefighting team to evacuate the area
+[38:47] they would return to the area at
+[38:49] approximately 4:30 pm and were now ready
+[38:51] to start the injection but it would take
+[38:54] even more time to open the safety relief
+[38:55] valves which would only open at 7:03
+[38:58] p.m. in the meantime one of the fire
+[39:00] pumps ran out of fuel it was 7:57 p.m.
+[39:04] when the firefighting team finally began
+[39:06] injecting water into the reactor which
+[39:08] had remained without cooling for
+[39:10] approximately 6 hours and 30
+[39:13] minutes on March 14th at 4:20 p.m. the
+[39:17] water level had reached the top of the
+[39:18] active fuel approximately 1 hour later
+[39:21] the fuel was completely uncovered the
+[39:24] water level curve recalculated after the
+[39:26] a
+[39:27] shows that the instrumentation provided
+[39:28] incorrect values mainly following the
+[39:31] core
+[39:44] uncovery on March 12th at 11:36 a.m.
+[39:48] after operating for 20 hours the rcic of
+[39:51] unit 3 stopped the reasons remain
+[39:54] unknown the shift team went went to the
+[39:56] rcic room on the first basement floor of
+[39:58] the unit 3 reactor building to restart
+[40:00] the rcic but were
+[40:03] unsuccessful at 12:35 p.m. the hpci
+[40:07] started up automatically when a low
+[40:09] water level was detected in the core the
+[40:11] hpci pump Drew water from the condensate
+[40:13] storage tank pressure in the core
+[40:15] dropped significantly at 700 p.m. it had
+[40:18] dropped to approximately 10 bar the
+[40:20] shift team operated the hpci by
+[40:23] controlling the steam flow rate while
+[40:25] they monitored the reactor water level
+[40:27] they wanted to prevent the water level
+[40:28] from rising too high as this would cause
+[40:30] the hpci to automatically shut down and
+[40:33] the subsequent restarting of the hpci
+[40:36] would drain the batteries at 8:36 p.m.
+[40:39] the shift team could no longer monitor
+[40:41] the reactor water level because the
+[40:43] 24volt DC battery for the reactor water
+[40:46] level gauge was depleted the shift team
+[40:48] thought that water injection by the fire
+[40:50] pumps would be more stable on March 13th
+[40:52] at 2:42 a.m. the shift team decided to
+[40:55] manually stop the hpci by closing the
+[40:58] steam inlet valve the announcement of
+[41:00] the hpc's manual shutdown was not
+[41:03] properly communicated to the emergency
+[41:05] response team who remained unaware of
+[41:07] the decision to inject water into the
+[41:09] reactor via the fire pumps the shift
+[41:11] team knew it was first necessary to
+[41:13] reduce the pressure in the reactor
+[41:14] vessel by manually opening the safety
+[41:16] relief valve on the control panel the
+[41:18] green lamp indicated that the valve was
+[41:20] closed between 2:45 and 2:55 a.m. the
+[41:24] shift team tried to open the valve but
+[41:26] was unsuccessful it now seems clear that
+[41:28] the status indicator lamp was faulty its
+[41:31] battery had enough power to illuminate
+[41:33] the lamp but not enough to open the
+[41:35] safety relief valve the shift team did
+[41:37] attempt to inject water into the reactor
+[41:39] by starting up the fire pump but the
+[41:41] pump's discharge pressure which is yet
+[41:43] to be determined but was somewhere
+[41:44] between 5 and 10 bar was less than the
+[41:46] pressure in the reactor vessel the core
+[41:49] was no longer cooled on March 13th at
+[41:52] 3:55 a.m. the superintendent was
+[41:55] informed that the hpci had stopped
+[41:58] automatically amidst the noise and
+[42:00] confusion in the meeting rooms manually
+[42:02] stopped had been misunderstood as
+[42:04] automatically stopped the two
+[42:06] expressions sound very similar in spoken
+[42:08] Japanese this small Nuance would have
+[42:11] major repercussions because an automatic
+[42:13] shutdown is the sign of a controlled
+[42:15] operation it was not until 5:08 a.m.
+[42:19] that the superintendent finally received
+[42:21] the correct information and realized
+[42:23] that a loss of reactor cooling had
+[42:24] occurred he gave orders to prepare a
+[42:27] water injection line using the fire
+[42:28] trucks and to find enough batteries to
+[42:31] provide 120 volts of power to open the
+[42:34] safety relief valve at that point 250
+[42:37] 2vt batteries were delivered but they
+[42:40] weighed 12 kg each it would take no less
+[42:42] than 60 of the batteries connected in
+[42:44] series to operate the valve this was
+[42:47] impossible he therefore ordered 10
+[42:50] 12volt batteries to be recovered from
+[42:52] private Vehicles the safety relief
+[42:54] valves were opened on March 13
+[42:56] at 9:08 a.m. the pressure in the core
+[42:59] dropped from 73 to 4.6 bar which was
+[43:02] lower than the discharge pressure of the
+[43:04] fire pump beginning at 9:25 a.m. water
+[43:08] could finally be injected the
+[43:10] superintendent wanted to inject sea
+[43:12] water first but the prime minister's
+[43:14] cabinet informed him if there is fresh
+[43:16] water at the power station they should
+[43:18] use it first fresh waterer was therefore
+[43:20] injected from 9:25 a.m. to 12:20 p.m.
+[43:24] until the source was depleted then
+[43:27] beginning at 1:12 p.m. sea water was
+[43:29] injected from the backwash valve pit the
+[43:32] core of unit 3 remained without cooling
+[43:34] for approximately 7 hours the water
+[43:37] level curve that was recalculated using
+[43:39] the Aztec simulation code shows that the
+[43:42] top of the active fuel was reached on
+[43:44] March 13th near 1:00 a.m. and that the
+[43:47] core was completely uncovered near 9:30
+[43:49] a.m. the same time the water injection
+[43:52] finally
+[43:53] began an attempt to simulate the
+[43:56] accident scenario at unit 3 using the
+[43:58] Aztec code is presented at the end of
+[44:00] the
+[44:14] film the order to perform containment
+[44:17] venting was given on March 12th at 6
+[44:19] minutes after midnight the actual
+[44:21] venting took place on March 12th at 2:30
+[44:24] p.m. the TV footage shows White smoke
+[44:26] coming out from the stack of unit 1 why
+[44:28] did it take more than 14 hours to
+[44:30] perform the venting there were in fact
+[44:32] many causes the superintendent based his
+[44:35] decisions on his belief that the IC
+[44:37] System at unit one was operating
+[44:39] correctly whereas the rcic of unit 2 was
+[44:43] experiencing difficulties for the
+[44:45] superintendent the situation at unit 2
+[44:47] was more serious he would only turn his
+[44:50] attention back to unit 1 on March 11th
+[44:53] at 11:50 p.m. when he was informed of
+[44:55] the pressure level in the drywell six
+[44:57] bar he gave the order to perform
+[44:59] containment venting 16 minutes later on
+[45:02] the morning of March 12th at 6 minutes
+[45:04] after midnight in the emergency
+[45:06] procedure the containment venting valves
+[45:09] are assigned identification numbers a
+[45:12] button can be pressed in the main
+[45:13] control room to open the valves but at
+[45:16] Fukushima the control button was
+[45:18] inoperable due to the loss of electrical
+[45:20] power the shift team was then forced to
+[45:22] look for drawings in order to locate the
+[45:24] valves and to study their configuration
+[45:27] to determine which could be opened
+[45:29] manually the Emergency Response Center
+[45:31] cooperated with the shift team employees
+[45:34] entered the administration building
+[45:36] despite the fact that entry had been
+[45:37] prohibited due to damages and despite
+[45:39] the fact that aftershocks continued to
+[45:41] strike the site the drawings were found
+[45:44] the shift team also attempted to contact
+[45:46] a partner company that was familiar with
+[45:48] the types and structures of the valves
+[45:50] however it was not Before Dawn on March
+[45:53] 12th that the team was finally able to
+[45:55] contact the firm on several occasions on
+[45:57] March 12th for example between 4: and
+[45:59] 5:00 a.m. the radiation level
+[46:02] significantly increased forcing the
+[46:03] shift teams to return to the control
+[46:06] room on March 12th at 9:15 a.m. two
+[46:10] members of task group one went to the
+[46:12] second floor of the reactor building
+[46:14] with only their flashlights to guide
+[46:16] them using the wheel handle they
+[46:18] manually opened the motor controlled
+[46:20] venting valve by 25% with no great
+[46:24] difficulty at 920 4 a.m. two members of
+[46:27] task group 2 went to the basement floor
+[46:29] of the reactor building to open the
+[46:31] small air operated containment vent
+[46:33] valve only to discover that it was on
+[46:35] the opposite side of the Taurus room
+[46:37] with respect to the door the passageway
+[46:40] to the valve was long and there was a
+[46:42] risk of exposure of more than 100
+[46:45] Ms they abandoned the task of opening
+[46:47] the small vent
+[46:49] valve a second solution was to open the
+[46:52] large vent valve for the Taurus as this
+[46:54] valve was more accessible
+[46:57] it too was air operated like the small
+[46:59] valve but the large air compressor at
+[47:01] the plant could not be operated due to
+[47:03] the loss of power sources a portable
+[47:05] compressor was needed but none were
+[47:07] available at the site the required
+[47:09] compressor was eventually found in the
+[47:11] offices of a partner company at 12:30
+[47:13] p.m. the compressor was loaded onto a
+[47:15] crane truck and placed in front of the
+[47:17] service entrance where it was then
+[47:19] connected to the vent valve using a
+[47:21] copper tube taken from the liquid
+[47:23] nitrogen Network at approximately 2 pm M
+[47:26] the compressor started to feed air into
+[47:28] the system and the containment pressure
+[47:30] dropped from 7.5 to 5.8 bar at 2:50 p.m.
+[47:35] the superintendent saw the NHK TV
+[47:38] footage showing white smoke coming out
+[47:39] of the stack at unit 1 he judged that
+[47:42] the containment venting had taken place
+[47:44] at 3:36 p.m. a hydrogen explosion
+[47:47] destroyed the top of the unit 1 reactor
+[47:54] building
+[48:03] the order to prepare the containment
+[48:04] venting line for unit 2 was given on
+[48:07] March 12th at 5:30 p.m. while the rcic
+[48:10] was still operating the Emergency
+[48:12] Response Team wanted to plan ahead for
+[48:13] the venting considering all the
+[48:15] difficulties encountered on unit one the
+[48:17] level of exposure in reactor building 2
+[48:19] was still low and the teams wanted to
+[48:21] take advantage of these conditions while
+[48:23] they still had time on March 13th at
+[48:26] 8:10 a.m. the shift team entered the
+[48:28] reactor building with the equipment it
+[48:30] needed to open the valves at 10:15 a.m.
+[48:34] the superintendent gave the order to
+[48:35] open the venting line there are several
+[48:38] ways to implement the venting line but
+[48:40] in all cases two valves must be open
+[48:44] when these valves are opened the line is
+[48:46] still maintained closed by a rupture
+[48:47] disc which is designed to break when the
+[48:50] containment pressure exceeds 5.27 bar as
+[48:53] was the case in the other units The
+[48:55] Operators would encounter enormous
+[48:57] difficulties when they tried to open the
+[48:59] air operated valves and tried to keep
+[49:01] them open for more than 48 hours they
+[49:05] would be confronted by one problem after
+[49:07] another a lack of compressed air leaks
+[49:10] on the connections lack of power from
+[49:12] the electric generators undersized
+[49:14] portable compressors and finally the
+[49:16] hydrogen explosion in unit 3 which
+[49:18] damaged the power supply for the
+[49:20] solenoid valves providing a detailed
+[49:22] list would take too much time let's
+[49:25] instead look at a few key dates on March
+[49:27] 14th at 1:25 p.m. The Operators detected
+[49:31] that the RCC had stopped functioning for
+[49:34] almost 3 days the residual heat from the
+[49:36] reactor had been sent into the water in
+[49:38] the Taurus in the form of steam the
+[49:41] water in the Taurus had now reached a
+[49:43] temperature of 150° c and the pressure
+[49:46] in the Taurus was at 5.9 bar it had
+[49:49] reach saturation under such conditions
+[49:52] the rcic would be unable to operate much
+[49:54] longer a discussion was held between the
+[49:56] three emergency response centers at the
+[49:58] power station the prime minister's
+[50:00] cabinet and at TCO what should be done
+[50:02] first release pressure from the reactor
+[50:04] vessel and inject water or perform
+[50:07] containment venting the superintendent
+[50:10] did not think it would be possible to
+[50:11] depressurize the reactor vessel with the
+[50:13] Taurus saturated he therefore decided to
+[50:15] perform the containment venting before
+[50:17] opening the safety relief valves on the
+[50:19] reactor vessel at 400 p.m. after a
+[50:22] series of delays trying to open the
+[50:24] large vent valve on the Taurus the order
+[50:26] of priorities was reversed it was the
+[50:27] reactor depressurization that was
+[50:29] performed first at 7:03 p.m. at 9:00
+[50:33] p.m. the venting line was opened but the
+[50:35] rupture disc did not burst out the
+[50:37] containment pressure 5.19 bar was less
+[50:41] than the pressure required to burst the
+[50:42] disc 5.27 bar and the venting never
+[50:46] occurred beginning on March 14th at
+[50:49] approximately 10: p.m. the sensors
+[50:51] indicated a pressure variation between
+[50:53] the Taurus and the drywell this
+[50:55] variation was a source of concern for
+[50:57] the Emergency Response Center the
+[50:59] variation continued to increase three to
+[51:02] four bar measured in the tus 5 to Seven
+[51:04] bar in the drywell most likely due to a
+[51:07] faulty pressure sensor the
+[51:09] superintendent fearing a possible breach
+[51:11] in the reactor containment decided to
+[51:13] try venting from the
+[51:15] drywell even though this solution was
+[51:17] the least satisfactory because
+[51:19] unfiltered gases could be released into
+[51:21] the environment on March 15th at 2
+[51:24] minutes after midnight
+[51:25] The Operators opened one of the vent
+[51:27] valves on the drywell the entire line
+[51:29] was open for drywell venting except for
+[51:31] the rupture disc which did not break the
+[51:34] containment pressure was stable at
+[51:36] approximately 7.5 bar the rupture disc
+[51:39] still did not break the operators
+[51:41] checked the small vent valve on the
+[51:42] containment it had closed it would
+[51:45] appear that the venting never took place
+[51:47] resulting in high leakage after 7 a.m.
+[51:50] these leaks may have occurred on the
+[51:52] expansion Bellows located between the
+[51:54] Taurus and the vents the large pipes
+[51:56] that connected to the
+[52:11] drywall the order to prepare a venting
+[52:13] line for unit 3 was given on March 12th
+[52:16] at 5:30 p.m. at the same time as for
+[52:19] unit 2 at this point the hpci was still
+[52:22] operating The Operators would have the
+[52:24] same problems as on the other units when
+[52:26] they tried to open the air operated
+[52:28] valves and tried to keep them open they
+[52:30] would have to enter the tourist room
+[52:31] several times where the working
+[52:33] conditions were particularly difficult
+[52:35] complete darkness the deafening noise of
+[52:38] steam blowing through the safety relief
+[52:40] Valves and temp temperature so high that
+[52:42] a rubber boot touching the Taurus
+[52:44] immediately began to melt on March 13th
+[52:47] at 8:41 a.m. The Operators open the
+[52:50] venting line except for the rupture disc
+[52:52] at 9:08 a.m. a quick deess
+[52:55] pressurization was performed via the
+[52:57] safety relief valves at 9:20 a.m. the
+[53:00] Emergency Response Center noted a drop
+[53:02] in pressure in the containment and
+[53:04] deduced that the venting had taken place
+[53:06] measurements indicate that the
+[53:08] containment pressure only surpassed the
+[53:10] required disc breaking pressure for a
+[53:11] very short time over the ensuing days it
+[53:14] was decided to maintain the venting Line
+[53:16] open in order to stabilize pressure in
+[53:18] the containment but on several occasions
+[53:21] the line would unexpectedly close due to
+[53:24] loss of air pressure
+[53:25] or loss of DC power for the solenoid
+[53:27] valve on March 14th at 11:01 a.m. an
+[53:31] explosion possibly caused by hydrogen
+[53:34] but this point is still a matter of
+[53:36] debate occurred in the reactor building
+[53:38] resulting in severe structural damage
+[53:40] debris was scattered around the building
+[53:42] causing damage to the water injection
+[53:44] line set up for units 2 and three on
+[53:46] March 15th at approximately 6:00 a.m. an
+[53:49] explosion occurred in the reactor
+[53:50] building of unit 4 and a fire broke out
+[53:53] causing extensive damage the explosion
+[53:56] is thought to have been caused by
+[53:57] flammable gases from the reactor
+[53:58] building of unit 3 which were conveyed
+[54:01] through a vent deck serving both
+[54:10] units these sequences seen from the
+[54:13] power station's Emergency Response
+[54:15] Center are only imaginary in reality due
+[54:18] to the loss of electrical power at the
+[54:20] units the large screens went blank no
+[54:23] parameters were visible for the core nor
+[54:25] the open or closed position of the
+[54:27] valves at units 1 and two the station
+[54:29] Emergency Response Center tried to
+[54:31] remain a breast of the situation at each
+[54:33] unit based on the information obtained
+[54:35] from the shift teams in the control
+[54:37] rooms the only means of communication
+[54:39] between the teams was via fixed line
+[54:41] telephones the TECO Emergency Response
+[54:43] Center in Tokyo tried to remain informed
+[54:46] of the situation through Communications
+[54:47] with the response Center at the power
+[54:49] station the two centers communicated via
+[54:52] a teleconference system the Third
+[54:55] Emergency Response Center at the prime
+[54:56] minister's office had a hard time
+[54:58] grasping the situation in the initial
+[55:00] hours following the accident for
+[55:02] security reasons the cell phone network
+[55:05] did not work in the meeting rooms and
+[55:07] telephone lines were saturated due to
+[55:09] the fact that the government had to
+[55:10] manage three crises at the same time the
+[55:13] earthquake the tsunami and the nuclear
+[55:15] accident however after initially only
+[55:18] collecting information the prime
+[55:20] minister's office quickly began to take
+[55:22] a more active role and started
+[55:24] suggesting Solutions but it was often
+[55:26] too late as the superintendent had
+[55:29] already made his decision and given the
+[55:31] necessary orders however the prime
+[55:33] minister's response team did have an
+[55:35] influence on certain decisions such as
+[55:38] the injection of seawat into reactor one
+[55:41] the depressurization and injection of
+[55:43] water into reactor 2 and the injection
+[55:45] of fresh water into reactor 3 the
+[55:48] following exchanges between the response
+[55:50] centers which were often times quite
+[55:52] tense are actual recordings they they
+[55:55] were published by TECO in August
+[56:18] 2012
+[56:23] hi
+[56:53] for
+[57:23] for
+[57:53] for
+[58:08] Hi I hi
+[58:12] [Applause]
+[58:23] hi
+[58:53] for
+[59:23] for
+[59:34] Fukushima dicha firstly highlights that
+[59:36] a nuclear accident May still
+[59:38] occur an in-depth analysis is therefore
+[59:41] necessary in order to learn every lesson
+[59:44] we can from the accident and enhance
+[59:46] safety as part of this analysis we need
+[59:49] to understand exactly what happened at
+[59:51] Fukushima daichi step by step and this
+[59:54] film is just one part of the process of
+[59:57] course one could argue that the low
+[59:59] break water was the primary cause of the
+[60:01] accident which stresses the importance
+[60:03] of site selection for nuclear facilities
+[60:05] by taking into account site specific
+[60:07] conditions and Associated hazards but
+[60:10] many other aspects of the accident must
+[60:12] be closely
+[60:13] scrutinized a complete analysis of these
+[60:16] events is an extremely lengthy process a
+[60:19] number of organizations around the globe
+[60:21] are working to understand the details of
+[60:23] the accident first conclusions have
+[60:25] already been drawn concerning the
+[60:26] accident in Japan committees appointed
+[60:30] by the government and diet have issued
+[60:32] some initial findings in France the
+[60:35] nuclear Safety Authority the ASN has
+[60:37] launched a targeted inspection campaign
+[60:40] in conjunction with its complimentary
+[60:42] safety assessment process in order to
+[60:44] improve safety at nuclear power plants
+[60:47] these evaluations also known as stress
+[60:50] tests were initially introduced in
+[60:52] response to directives by the French
+[60:54] Prime Minister and the European
+[60:57] Council France has expanded the scope of
+[60:59] the stress tests to include all of its
+[61:01] nuclear facilities the complimentary
+[61:04] safety assessments consider all extreme
+[61:06] natural phenomena such as earthquakes
+[61:08] and flooding and also cover the loss of
+[61:10] electrical power the loss of heat sink
+[61:13] and all possible combinations of such
+[61:15] events these evaluations also take into
+[61:18] consideration that a severe accident
+[61:20] could occur at any time and that
+[61:22] emergency situations should be managed
+[61:24] in extremely harsh
+[61:27] conditions for irsn the goal is clear
+[61:31] improve the capabilities of French
+[61:32] nuclear facilities to properly manage
+[61:35] such situations improved capabilities
+[61:38] means not just design requirements but
+[61:41] also properly preparing work teams and
+[61:43] emergency response means as the film
+[61:46] clearly showed TECO was not properly
+[61:48] prepared for a situation without any
+[61:51] electrical power supply or heat removal
+[61:53] capacity available available the teams
+[61:55] were forced to look elsewhere for the
+[61:57] equipment they needed with no written
+[62:00] procedures and no clearly defined
+[62:02] organization they were overwhelmed Time
+[62:04] and Time Again by the events employees
+[62:07] were exposed to risks and had not
+[62:09] received the training they needed to
+[62:10] respond to such a situation the
+[62:13] efficiency of the work teams their
+[62:15] dedication to the superintendent and
+[62:17] respect for his position their
+[62:19] professionalism their courage in the
+[62:21] face of multiple aftershocks the threats
+[62:23] of more tsunamis and the increasing
+[62:25] levels of radiation could not compensate
+[62:27] for their lack of preparation for an
+[62:29] accident of such magnitude and
+[62:31] complexity their task was made all the
+[62:34] more complex by the many different
+[62:35] facilities that were affected the
+[62:37] reactors and fuel pools at the different
+[62:39] units and also by the many difficulties
+[62:42] and also errors involved in the
+[62:44] decision-making process controlling the
+[62:47] containment is absolutely essential as
+[62:49] was clearly demonstrated by the many
+[62:51] efforts made by TECO to perform venting
+[62:53] it should also be noted that for the
+[62:55] long-term cooling of its reactors TECO
+[62:58] only disposed of water injection systems
+[63:00] working at relatively low pressure such
+[63:02] as fire trucks but as we also saw in the
+[63:06] film it proved impossible to lower the
+[63:08] pressure in the lines to a level that
+[63:10] would enable the injection of low
+[63:11] pressure
+[63:12] water controlling the risks associated
+[63:15] with released hydrogen also requires
+[63:17] precise knowledge concerning this
+[63:19] phenomenon and adapted measures not only
+[63:22] inside the containment but also outside
+[63:24] if a leak should ever occur many
+[63:27] conclusions were also drawn concerning
+[63:29] the management by the emergency response
+[63:31] centers in their findings the Japanese
+[63:34] committees were quite critical of how
+[63:35] the emergency phase was managed in any
+[63:38] case these initial findings are but the
+[63:40] first step many questions still remain
+[63:43] about exactly what happened at Fukushima
+[63:45] daichi and no definitive conclusion can
+[63:48] yet be drawn some of the Lessons Learned
+[63:50] are relevant for all nuclear reactor
+[63:52] series While others are specific to
+[63:54] Boiling Water reactors experts now think
+[63:58] that it will take up to 10 years to
+[64:00] fully establish the feedback for the
+[64:05] accident to better understand the
+[64:08] accident irsn used the Aztec simulation
+[64:10] code to simulate reactors 1 2 and 3 of
+[64:13] the Fukushima daichi power
+[64:16] plant over time these simulations will
+[64:19] make use of data established together
+[64:21] with Japanese agencies as part of an
+[64:23] international effort under the direction
+[64:25] of the oecd nuclear energy agency one of
+[64:29] the goals is to determine as precisely
+[64:31] as possible the current state of the
+[64:33] fuel in the damaged reactors in order to
+[64:35] facilitate its extraction in the future
+[64:38] this work is now
+[64:39] underway the following is an
+[64:41] illustration of the changing conditions
+[64:43] in reactor 3 on March 12th and 13th 2011
+[64:47] as simulated by
+[64:49] Aztec this simulation was performed in
+[64:52] early September 2012 with the public
+[64:54] data available at the
+[64:57] time in the following illustrations the
+[65:00] image in the center shows the
+[65:01] temperature levels in the Reactor Core
+[65:04] blue represents relatively low
+[65:06] temperatures while red represents high
+[65:09] temperatures the two graphs to the right
+[65:11] show a comparison between calculations
+[65:13] made by Aztec the solid lines and the
+[65:16] measurements recorded during the
+[65:18] accident the points the top graph shows
+[65:21] the pressure in the containment and the
+[65:23] bottom graph shows the pressure in the
+[65:25] reactor
+[65:26] vessel this calculation begins when the
+[65:29] hpci emergency injection system stopped
+[65:32] functioning at this point the initial
+[65:35] conditions were as follows pressure in
+[65:37] the vessel 10 bar residual power 10
+[65:40] megawatt containment pressure 2.2 bar
+[65:44] and the temperature of the water in the
+[65:46] Taurus was close to saturation these are
+[65:49] the values that were measured or
+[65:50] estimated by TCO the hpci shutdown is
+[65:54] thought to have occurred in two steps
+[65:56] first water injection via the hpci was
+[66:00] stopped on March 12th at 9 p.m. steam
+[66:03] continued to be evacuated to the Taurus
+[66:06] second the hpci was completely shut down
+[66:09] on March 13th at 2:42 a.m. this
+[66:12] hypothesis is necessary in order to
+[66:15] remain consistent with the water and
+[66:16] pressure levels measured in the reactor
+[66:18] vessel it is compatible with what we
+[66:20] know about the hpc's functioning and the
+[66:23] actions taken by the operators when the
+[66:25] water injection stopped the water level
+[66:28] in The Vessel began to drop reaching the
+[66:30] top of the active fuel near 1:00 a.m.
+[66:33] pressure in the vessel remained low
+[66:35] approximately 10 bar as the hpci
+[66:38] continued to remove the steam from the
+[66:40] core the generated steam was condensed
+[66:43] in the water of the Taurus but the
+[66:45] condensation became less and less
+[66:47] effective and pressure in the
+[66:49] containment slowly began to rise when
+[66:52] the operator stopped the HPC ey at 2:42
+[66:55] a.m. No More Steam was evacuated from
+[66:58] the core pressure in the core Rose to 75
+[67:01] bar the safety relief valves then
+[67:04] reduced the pressure core meltdown began
+[67:07] at approximately 6:00 a.m. here we can
+[67:10] see the beginning of the zirconium
+[67:11] oxidation phase in the image the bottom
+[67:15] of the reactor vessel is still filled
+[67:17] with water and is shown in blue the
+[67:19] damaged core is extremely hot and shown
+[67:21] in red the materials have already beun
+[67:24] to melt and flow to the bottom of the
+[67:26] core to prepare for the depressurization
+[67:28] of the vessel the operator stopped the
+[67:30] containment spray system in fact it was
+[67:33] this same pump that had to be used to
+[67:35] reflood the vessel The Operators were
+[67:38] then able to open several of the safety
+[67:40] relief valves pressure rapidly increased
+[67:42] in the containment at this point the
+[67:45] venting line was already open only the
+[67:48] rupture disc could prevent de
+[67:49] pressurization of the containment the
+[67:51] disc broke when the safety relief valves
+[67:53] were open opened leading to an important
+[67:55] containment pressure increase the
+[67:57] depressurization of the reactor vessel
+[68:00] made it possible to begin water
+[68:01] injections at 9:25 a.m. at this point
+[68:05] the core was already severely damaged
+[68:07] the upper half of the fuel had melted
+[68:09] the reflooding of the core did not
+[68:11] generate any major pressure peaks in the
+[68:13] vessel it protected the core from any
+[68:15] further damage and then cooled it down
+[68:18] the valves on the containment closed
+[68:20] several times resulting in increased
+[68:22] pressure in the containment until they
+[68:24] could be opened again according to the
+[68:26] Aztec calculations no corium slumped to
+[68:29] the bottom of the reactor vessel nor was
+[68:31] the vessel breached TECO however
+[68:34] believes that the vessel was damaged and
+[68:37] that there is now chorum in the vessel
+[68:38] pit for the time being it is still not
+[68:41] possible to make any direct observations
+[68:43] that could confirm this evaluation and
+[68:46] precisely determine how much corium has
+[68:48] escaped from The Vessel the Japanese
+[68:50] analysts believe that due to damages on
+[68:52] the injection lines only a portion of
+[68:54] the water actually reached the
+[68:56] core the simulation has not determined
+[68:58] the cause for the extremely violent
+[69:00] explosion that occurred in the reactor
+[69:02] building in fact this was the only
+[69:04] reactor in which the containment
+[69:06] pressure was relatively well controlled
+[69:08] this final observation illustrates the
+[69:10] limits of current simulation
+[69:12] capabilities and the need for more
+[69:14] information to better understand and
+[69:16] model the
+[69:22] accident
+[69:36] that

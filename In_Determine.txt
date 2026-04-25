@@ -1,0 +1,81 @@
+# DETERMINE — What Was Ethically Wrong?
+
+The Fukushima disaster was not caused by an unforeseeable tsunami. It was a **manmade catastrophe** — the result of ethical failures at multiple levels. Here are three key ethical issues:
+
+---
+
+## 1. Faster, Better, Cheaper vs Safety
+
+-Why no countermeasures is made to prevent tsunami
+
+TEPCO operated under a business logic: new safety regulations would **interfere with operations and reduce profits**.
+
+When experts proposed tsunami countermeasures, TEPCO argued these would be "too expensive." The Federation of Electric Power Companies actively lobbied against stronger regulations (2_inevitability.txt, line 55).
+
+**WFEO principle:** Engineers shall reject practices that harm public welfare.
+
+Conclution: Safety could not be sold
+
+---
+
+## 2. Engineers Must Plan for Failure, Not Just Prevention
+
+-Why when tsunami comes, the plant and the government is unprepared at all.
+
+TEPCO postponed tsunami countermeasures until 2016 — seven years after the 2009 deadline. Zero reinforcements were added to Units 1-3. The former head of TEPCO said: *"the risk of a tsunami never crossed his mind"* when he was president (2_inevitability.txt, line 51).
+
+This is **arrogant engineering**. Engineers must assume crisis can hit any second and prepare for it (2_inevitability.txt, lines 79-80).
+
+**The resilience question:** What happens when multiple systems fail simultaneously? How do we limit damage? How do we recover quickly?
+
+Conclution: Like a house that prevents fire but also does fire drills — prevention alone is not enough.
+
+---
+
+## 3. Multi-Departmental Monitoring Failed / Collusion
+
+-Why the big environment makes things go wrong as a whole
+
+Multiple organizations were supposed to check each other. Instead, they **colluded**.
+
+| Organization | Role | Problem |
+|------------|------|---------|
+| METI | Promotes nuclear power | Made NISA part of their ministry |
+| NISA | Nuclear regulator | Not independent — captured by METI |
+| TEPCO | Plant operator | Resisted regulations, hid risks |
+
+This is called **"regulatory capture"** — regulators serve the industry they should oversee (2_inevitability.txt, line 15).
+
+**HKIE 3.4:** Engineers must advise consequences when their judgment is overruled by non-technical authority. But engineers who warned were overruled, ignored, or punished. The whistleblower at Millstone was fired and blacklisted (2_inevitability.txt, line 33).
+
+---
+
+## The Core Problem
+
+| Ethical Principle | What Should Have Been | What Actually Happened |
+|----------------|----------------------|---------------------|
+| Independence | Regulators free from industry | NISA inside METI |
+| Accountability | Consequences for violations | Fines < one day's profit |
+| Public welfare | Safety over profits | Cost-cutting on safety |
+
+---
+
+## Key Quote
+
+> *"Regulations are only as good as their enforcement... Workers at Fukushima reported that they had advance warnings of inspections, and inspectors regularly winked at violations."*
+> — 2_inevitability.txt, line 37
+
+---
+
+## Summary
+
+Fukushima was not an inevitable natural disaster. It was the predictable result of:
+1. **Cost over safety** decisions
+2. **No failure recovery planning**
+3. **Systemic collusion** that silenced warnings
+
+These are not individual errors — they are **systemic ethical failures**.
+
+---
+
+*Word count: ~380 words*

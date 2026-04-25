@@ -1,0 +1,66 @@
+1. Faster, Better, Cheaper vs Safety #-> authority
+
+TEPCO operated under a business logic: new safety regulations would interfere with operations and reduce profits. When experts proposed tsunami countermeasures, TEPCO argued these would be "too expensive" and "impractical." The Federation of Electric Power Companies lobby-against stronger regulations. This reflects WFEO's principle that ** engineers shall reject practices that harm public welfare**. Safety cannot be a variable in the cost-quality-speed equation — but at Fukushima, it was.
+
+2. "**Engineers** must not only ensure systems don't fail — they must also ensure that when failures occur, damage is limited and recovery is fast."
+
+Engineers have to assume crysis hit in any second and have at least some preparation for it.
+
+The official did not make a plan to handle what exactly to do with smooth and order, once the nuclear plant is blew up.
+
+TEPCO's approach: "We've made the plant safe — we don't need to plan for failure."
+
+This is arrogant engineering — assuming your preventions are perfect.
+
+e.g. house prevent fire but also do fire drill
+
+Resilient engineering asks:
+
+What happens when multiple systems fail simultaneously?
+How do we limit damage when failures occur?
+How do we recover quickly when damage occurs?
+How do we communicate and coordinate when infrastructure fails?
+
+3. Multi-Departmental Monitoring Failed / Collusion
+
+What happened: Multiple organizations supposed to check each other — all colluded instead
+
+The Collusion Chain:
+- TEPCO → wants to avoid costly safety measures
+- Lobbies through Federation of Electric Power Companies
+- METI (promotes nuclear) feels pressure
+- NISA (regulator) develops "cozy relationship" with TEPCO
+- Warnings dismissed, deadlines extended, violations ignored
+- Disaster occurs → all blame "unforeseeable natural disaster"
+
+Structural Evidence from 2_inevitability.txt:
+
+- "Nuclear safety is problematic when nuclear plants are in private hands because private firms have the incentive... to resist effective regulation" (line 15)
+- "Nuclear power village" — revolving door between industry and regulators (line 15)
+- NISA was part of METI (promotes nuclear) — not independent (line 15)
+
+Warnings Suppressed, Not Acted On:
+- 14 lawsuits filed warning about tsunami risks — all failed (line 49)
+- Expert warnings dismissed as "obstructionism" (line 55)
+- "The whistleblower was fired and blacklisted" (Millstone example, line 33)
+- Fines too small to deter — BP fined less than one day's profit (line 40)
+
+HKIE 3.4 Reference:
+"Advise those concerned of the consequences if engineering judgement is overruled by non-technical authority"
+→ Engineers tried to warn → non-technical management/politicians overruled → no consequences for overriding
+
+Core Problem:
+| HKIE/WFEO Principle | Should Have Been | Actually Was |
+| Independence | Regulators independent of industry | NISA inside METI |
+| Accountability | Consequences for violations | Fines < one day's profit |
+| Public welfare | Safety over profits | Cost-cutting on safety |
+
+Key Quote:
+"Regulations are only as good as their enforcement... Workers at Fukushima reported that they had advance warnings of inspections, and inspectors regularly winked at violations." (line 37)
+
+Why This Matters:
+- No single person decided "let's cause a disaster"
+- System rewarded colluding, punished warning-raising
+- Individual ethics cannot overcome systemic corruption
+- Engineers need structural independence — otherwise HKIE 3.4 is meaningless
+
