@@ -1,11 +1,21 @@
-1. Is it preventable, follow up quesiton: How to prevent it.(most impactful decision)
-2. Think of a time you stayed silent about a problem because it wasn't "officially" your responsibility. What made that feel acceptable in the moment? follow up. When responsibility is distributed across governments, regulators, and corporations — each pointing to the others — does the system itself become a mechanism for escaping accountability? And if so, who designed that system, and who benefits from it?
-3. Society accepts that car accidents will kill thousands every year because we've decided the benefit of driving outweighs the cost. Is nuclear power any different — or is there something about the nature of nuclear risk that makes it categorically incomparable?
-4. Every dollar spent preventing a disaster that may never happen is a dollar not spent on healthcare, education, or infrastructure that will affect people. How should societies decide when precaution becomes an unreasonable burden? follow up: Before Fukushima, skipping the seawall upgrades looked like a sensible financial decision. After, it looks criminal. Is it fair to judge risk management decisions by their outcomes rather than by what was reasonably knowable at the time?
-5. TEPCO was effectively nationalized after the disaster to prevent it from collapsing — meaning the company responsible for the disaster was protected by the state. Is shielding a culpable corporation from bankruptcy ever justifiable, or does it fundamentally corrupt the relationship between consequence and responsibility?
-6. ⁠The Fukushima cleanup will not be completed until 2051 at the earliest — paid for by people who had no voice in the decisions that made it necessary. Do engineers and institutions have a moral obligation to future generations who cannot yet advocate for themselves — and if so, how should that obligation be weighed against present-day pressures and costs?
-Follow up: At what point does passing risk onto future generations stop being an engineering decision and become an ethical violation?
-7. Plant manager Masao Yoshida defied direct orders from TEPCO headquarters and continued seawater injection into the reactor — a decision that likely prevented a far worse catastrophe. Engineering codes of conduct demand public safety above organizational loyalty. But in practice, careers, livelihoods, and institutional cultures make defiance enormously costly. Is it realistic — or even fair — to expect individual engineers to act against their organization when institutions themselves are the problem?
-Follow up: If the system punishes those who speak up and protects those who stay silent, can individual courage ever be a reliable safeguard against institutional failure?
-8. Across everything we've discussed — systemic accountability, acceptable risk, corporate consequence, generational responsibility, and the cost of silence — what does Fukushima tell us about what it truly means to be an ethical engineer?
-Is ethics simply following a code of conduct — or does it demand something harder? Something that codes, regulations, and institutions cannot enforce?
+1. Was Fukushima preventable?
+Follow-up: What single decision would have made the biggest difference?
+
+2. Have you ever stayed silent about a problem because it wasn’t your responsibility?
+Follow-up: When responsibility is spread across governments, regulators, and corporations, does the system allow avoidance of accountability? Who designs and benefits from such a system?
+
+3. Society accepts car accident deaths as a trade-off for driving’s benefits. Is nuclear power fundamentally different, or are its risks incomparable?
+
+4. How should societies decide when disaster prevention becomes an unreasonable cost?
+Follow-up: Before Fukushima, skipping seawall upgrades seemed prudent. After, it seems negligent. Should risk decisions be judged by outcomes or what was knowable at the time?
+
+5. After the disaster, TEPCO was nationalized to prevent collapse. Is protecting a culpable corporation ever justifiable, or does it break the link between actions and consequences?
+
+6. Fukushima’s cleanup will take decades, paid for by those with no say in the decisions. Do engineers have a moral obligation to future generations?
+Follow-up: When does shifting risks onto the future stop being an engineering decision and become unethical?
+
+7. Plant manager Masao Yoshida defied TEPCO orders, likely averting worse disaster. Can we expect engineers to prioritize public safety over loyalty when institutions make defiance so costly?
+Follow-up: If systems punish whistleblowers and protect silence, can individual courage ever prevent systemic failure?
+
+8. What does Fukushima reveal about the meaning of being an ethical engineer?
+Is ethics just following rules, or does it require something deeper—beyond what codes and institutions enforce?
